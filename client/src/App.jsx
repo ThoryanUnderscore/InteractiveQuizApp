@@ -11,7 +11,7 @@ export default function App() {
   // 1. Récupérer les quiz depuis MongoDB
   const fetchQuizzes = async () => {
     try {
-      const res = await axios.get('http://localhost:5000/api/quizzes')
+      const res = await axios.get('https://interactivequizapp.onrender.com/api/quizzes')
       setQuizzes(res.data)
     } catch (err) {
       console.error("Erreur lors de la récupération :", err)
