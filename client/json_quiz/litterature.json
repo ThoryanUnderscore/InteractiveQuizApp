@@ -1,0 +1,152 @@
+[
+  {
+    "questionText": "Qui est l'auteur des 'Misérables' ?",
+    "options": ["Gustave Flaubert", "Émile Zola", "Victor Hugo", "Honoré de Balzac"],
+    "correctAnswer": "Victor Hugo"
+  },
+  {
+    "questionText": "Dans quelle ville se déroule l'intrigue de 'Roméo et Juliette' de Shakespeare ?",
+    "options": ["Venise", "Vérone", "Florence", "Rome"],
+    "correctAnswer": "Vérone"
+  },
+  {
+    "questionText": "Quel écrivain a créé le célèbre détective Sherlock Holmes ?",
+    "options": ["Agatha Christie", "Maurice Leblanc", "Arthur Conan Doyle", "Edgar Allan Poe"],
+    "correctAnswer": "Arthur Conan Doyle"
+  },
+  {
+    "questionText": "Quel est le premier roman de la saga 'À la recherche du temps perdu' de Proust ?",
+    "options": ["Du côté de chez Swann", "À l'ombre des jeunes filles en fleurs", "Le Temps retrouvé", "Sodome et Gomorrhe"],
+    "correctAnswer": "Du côté de chez Swann"
+  },
+  {
+    "questionText": "Qui a écrit 'Le Petit Prince', publié en 1943 ?",
+    "options": ["Jean Giono", "Antoine de Saint-Exupéry", "Albert Camus", "Romain Gary"],
+    "correctAnswer": "Antoine de Saint-Exupéry"
+  },
+  {
+    "questionText": "Quel roman d'Albert Camus commence par la phrase : 'Aujourd'hui, maman est morte' ?",
+    "options": ["La Peste", "La Chute", "L'Étranger", "Le Premier Homme"],
+    "correctAnswer": "L'Étranger"
+  },
+  {
+    "questionText": "Dans quel roman de George Orwell suit-on les aventures de Winston Smith sous l'œil de Big Brother ?",
+    "options": ["La Ferme des animaux", "Brave New World", "1984", "Fahrenheit 451"],
+    "correctAnswer": "1984"
+  },
+  {
+    "questionText": "Quel auteur français est célèbre pour sa série de 20 romans intitulée 'Les Rougon-Macquart' ?",
+    "options": ["Émile Zola", "Guy de Maupassant", "Stendhal", "Jules Verne"],
+    "correctAnswer": "Émile Zola"
+  },
+  {
+    "questionText": "Qui est l'auteur du poème 'Le Corbeau' ?",
+    "options": ["Charles Baudelaire", "Paul Verlaine", "Edgar Allan Poe", "Arthur Rimbaud"],
+    "correctAnswer": "Edgar Allan Poe"
+  },
+  {
+    "questionText": "Quel est le nom du capitaine dans 'Vingt mille lieues sous les mers' ?",
+    "options": ["Capitaine Achab", "Capitaine Haddock", "Capitaine Nemo", "Capitaine Crochet"],
+    "correctAnswer": "Capitaine Nemo"
+  },
+  {
+    "questionText": "Quel dramaturge a écrit 'L'Avare' et 'Le Misanthrope' ?",
+    "options": ["Racine", "Corneille", "Molière", "Marivaux"],
+    "correctAnswer": "Molière"
+  },
+  {
+    "questionText": "Dans 'Don Quichotte', comment s'appelle le fidèle écuyer du héros ?",
+    "options": ["Sancho Panza", "Rocinante", "Dulcinea", "D'Artagnan"],
+    "correctAnswer": "Sancho Panza"
+  },
+  {
+    "questionText": "Quel est le titre du dernier livre de la Bible ?",
+    "options": ["La Genèse", "L'Exode", "L'Apocalypse", "Les Psaumes"],
+    "correctAnswer": "L'Apocalypse"
+  },
+  {
+    "questionText": "Qui a écrit 'Madame Bovary' ?",
+    "options": ["Gustave Flaubert", "Honoré de Balzac", "George Sand", "Alexandre Dumas"],
+    "correctAnswer": "Gustave Flaubert"
+  },
+  {
+    "questionText": "Quel écrivain russe est l'auteur de 'Crime et Châtiment' ?",
+    "options": ["Léon Tolstoï", "Fiodor Dostoïevski", "Anton Tchekhov", "Vladimir Nabokov"],
+    "correctAnswer": "Fiodor Dostoïevski"
+  },
+  {
+    "questionText": "Comment s'appelle le monstre créé par Victor Frankenstein dans le roman de Mary Shelley ?",
+    "options": ["Frankenstein", "Il n'a pas de nom", "Igor", "Prométhée"],
+    "correctAnswer": "Il n'a pas de nom"
+  },
+  {
+    "questionText": "Quel poète français a écrit le recueil 'Les Fleurs du Mal' ?",
+    "options": ["Paul Valéry", "Charles Baudelaire", "Guillaume Apollinaire", "Stéphane Mallarmé"],
+    "correctAnswer": "Charles Baudelaire"
+  },
+  {
+    "questionText": "Dans 'Le Comte de Monte-Cristo', quel est le véritable nom du héros ?",
+    "options": ["Edmond Dantès", "Fernand Mondego", "Gaspard Caderousse", "Villefort"],
+    "correctAnswer": "Edmond Dantès"
+  },
+  {
+    "questionText": "Qui a écrit la pièce 'En attendant Godot' ?",
+    "options": ["Eugène Ionesco", "Samuel Beckett", "Jean-Paul Sartre", "Jean Genet"],
+    "correctAnswer": "Samuel Beckett"
+  },
+  {
+    "questionText": "Quel écrivain colombien est l'auteur de 'Cent ans de solitude' ?",
+    "options": ["Mario Vargas Llosa", "Gabriel García Márquez", "Pablo Neruda", "Jorge Luis Borges"],
+    "correctAnswer": "Gabriel García Márquez"
+  },
+  {
+    "questionText": "Quel est le nom du jeune garçon qui refuse de grandir chez J.M. Barrie ?",
+    "options": ["Tom Sawyer", "Oliver Twist", "Peter Pan", "Huckleberry Finn"],
+    "correctAnswer": "Peter Pan"
+  },
+  {
+    "questionText": "Qui a écrit 'Le Rouge et le Noir' ?",
+    "options": ["Stendhal", "Balzac", "Flaubert", "Zola"],
+    "correctAnswer": "Stendhal"
+  },
+  {
+    "questionText": "Dans quel roman d'Herman Melville poursuit-on une baleine blanche ?",
+    "options": ["L'Île au trésor", "Moby Dick", "Robinson Crusoé", "Billy Budd"],
+    "correctAnswer": "Moby Dick"
+  },
+  {
+    "questionText": "Qui est l'auteur de 'La Gloire de mon père' ?",
+    "options": ["Marcel Pagnol", "Alphonse Daudet", "Jean Giono", "Colette"],
+    "correctAnswer": "Marcel Pagnol"
+  },
+  {
+    "questionText": "Quel personnage de Molière est un hypocrite religieux ?",
+    "options": ["Harpagon", "Tartuffe", "Argan", "Alceste"],
+    "correctAnswer": "Tartuffe"
+  },
+  {
+    "questionText": "Qui a écrit 'Le Vieil Homme et la Mer' ?",
+    "options": ["Ernest Hemingway", "Francis Scott Fitzgerald", "John Steinbeck", "William Faulkner"],
+    "correctAnswer": "Ernest Hemingway"
+  },
+  {
+    "questionText": "Quel est le nom du célèbre détective belge créé par Agatha Christie ?",
+    "options": ["Jules Maigret", "Hercule Poirot", "Miss Marple", "Arsène Lupin"],
+    "correctAnswer": "Hercule Poirot"
+  },
+  {
+    "questionText": "Qui a écrit 'Les Trois Mousquetaires' ?",
+    "options": ["Victor Hugo", "Alexandre Dumas", "Théophile Gautier", "Alfred de Musset"],
+    "correctAnswer": "Alexandre Dumas"
+  },
+  {
+    "questionText": "Quel auteur antique a écrit 'L'Odyssée' ?",
+    "options": ["Virgile", "Homère", "Sophocle", "Euripide"],
+    "correctAnswer": "Homère"
+  },
+  {
+    "questionText": "Quelle est l'œuvre majeure de Dante Alighieri ?",
+    "options": ["Le Décaméron", "La Divine Comédie", "Le Prince", "Les Confessions"],
+    "correctAnswer": "La Divine Comédie"
+  }
+]

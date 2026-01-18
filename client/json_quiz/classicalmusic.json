@@ -1,0 +1,152 @@
+[
+  {
+    "questionText": "Lequel de ces compositeurs était totalement sourd lorsqu'il a terminé sa 9ème Symphonie ?",
+    "options": ["Mozart", "Beethoven", "Bach", "Chopin"],
+    "correctAnswer": "Beethoven"
+  },
+  {
+    "questionText": "Quel compositeur est surnommé le 'prodige de Salzbourg' ?",
+    "options": ["Haydn", "Schubert", "Mozart", "Wagner"],
+    "correctAnswer": "Mozart"
+  },
+  {
+    "questionText": "Combien de cordes possède normalement une harpe ?",
+    "options": ["37", "47", "57", "52"],
+    "correctAnswer": "47"
+  },
+  {
+    "questionText": "Qui est l'auteur des 'Quatre Saisons' ?",
+    "options": ["Vivaldi", "Handel", "Corelli", "Scarlatti"],
+    "correctAnswer": "Vivaldi"
+  },
+  {
+    "questionText": "Quel compositeur polonais est célèbre pour ses compositions pour piano (Nocturnes, Polonaises) ?",
+    "options": ["Liszt", "Chopin", "Rachmaninov", "Debussy"],
+    "correctAnswer": "Chopin"
+  },
+  {
+    "questionText": "Quelle est la famille d'instruments de la clarinette ?",
+    "options": ["Les bois", "Les cuivres", "Les cordes", "Les percussions"],
+    "correctAnswer": "Les bois"
+  },
+  {
+    "questionText": "Qui a composé l'opéra 'Carmen' ?",
+    "options": ["Verdi", "Puccini", "Bizet", "Gounod"],
+    "correctAnswer": "Bizet"
+  },
+  {
+    "questionText": "Quel compositeur allemand est considéré comme le maître du contrepoint et de la fugue ?",
+    "options": ["Bach", "Brahms", "Schumann", "Mendelssohn"],
+    "correctAnswer": "Bach"
+  },
+  {
+    "questionText": "Comment appelle-t-on une œuvre musicale écrite pour un instrument soliste et un orchestre ?",
+    "options": ["Une symphonie", "Un concerto", "Une sonate", "Un quatuor"],
+    "correctAnswer": "Un concerto"
+  },
+  {
+    "questionText": "Quel ballet célèbre a été composé par Tchaïkovski ?",
+    "options": ["Le Sacre du printemps", "Le Lac des cygnes", "Boléro", "Giselle"],
+    "correctAnswer": "Le Lac des cygnes"
+  },
+  {
+    "questionText": "Quel instrument est souvent surnommé le 'roi des instruments' en raison de sa taille et de sa puissance ?",
+    "options": ["Le piano", "La harpe", "L'orgue", "Le violon"],
+    "correctAnswer": "L'orgue"
+  },
+  {
+    "questionText": "Qui a composé le célèbre 'Boléro' ?",
+    "options": ["Ravel", "Fauré", "Satie", "Saint-Saëns"],
+    "correctAnswer": "Ravel"
+  },
+  {
+    "questionText": "Quel compositeur est célèbre pour ses opéras monumentaux comme 'La Walkyrie' ?",
+    "options": ["Rossini", "Wagner", "Verdi", "Strauss"],
+    "correctAnswer": "Wagner"
+  },
+  {
+    "questionText": "Quelle est la voix d'homme la plus aiguë dans l'opéra ?",
+    "options": ["Baryton", "Basse", "Ténor", "Contre-ténor"],
+    "correctAnswer": "Ténor"
+  },
+  {
+    "questionText": "Dans quel pays est né le mouvement musical de la Renaissance ?",
+    "options": ["France", "Allemagne", "Italie", "Autriche"],
+    "correctAnswer": "Italie"
+  },
+  {
+    "questionText": "Qui a composé l'hymne européen (l'Ode à la joie) ?",
+    "options": ["Beethoven", "Mozart", "Haydn", "Bach"],
+    "correctAnswer": "Beethoven"
+  },
+  {
+    "questionText": "Quel compositeur autrichien est connu comme le 'roi de la valse' ?",
+    "options": ["Johann Strauss II", "Gustav Mahler", "Anton Bruckner", "Arnold Schoenberg"],
+    "correctAnswer": "Johann Strauss II"
+  },
+  {
+    "questionText": "Combien de musiciens composent un quatuor à cordes ?",
+    "options": ["3", "4", "5", "8"],
+    "correctAnswer": "4"
+  },
+  {
+    "questionText": "Quel compositeur français a écrit 'Clair de lune' ?",
+    "options": ["Claude Debussy", "Maurice Ravel", "Erik Satie", "Gabriel Fauré"],
+    "correctAnswer": "Claude Debussy"
+  },
+  {
+    "questionText": "Quel est l'instrument le plus aigu de la famille des cuivres ?",
+    "options": ["Le trombone", "Le tuba", "La trompette", "Le cor"],
+    "correctAnswer": "La trompette"
+  },
+  {
+    "questionText": "Qui a composé 'Le Messie' (dont le célèbre Alléluia) ?",
+    "options": ["Handel", "Bach", "Telemann", "Purcell"],
+    "correctAnswer": "Handel"
+  },
+  {
+    "questionText": "Comment appelle-t-on le texte d'un opéra ?",
+    "options": ["Le livret", "Le scénario", "La partition", "Le manuscrit"],
+    "correctAnswer": "Le livret"
+  },
+  {
+    "questionText": "Quel compositeur russe a écrit 'Pierre et le Loup' ?",
+    "options": ["Stravinsky", "Prokofiev", "Chostakovitch", "Rimski-Korsakov"],
+    "correctAnswer": "Prokofiev"
+  },
+  {
+    "questionText": "Quel terme désigne une vitesse de jeu lente et majestueuse ?",
+    "options": ["Adagio", "Allegro", "Presto", "Vivace"],
+    "correctAnswer": "Adagio"
+  },
+  {
+    "questionText": "Qui est le compositeur de la 'Symphonie du Nouveau Monde' ?",
+    "options": ["Dvořák", "Grieg", "Sibelius", "Smetana"],
+    "correctAnswer": "Dvořák"
+  },
+  {
+    "questionText": "Quel instrument de percussion utilise des baguettes et des lames de métal ?",
+    "options": ["Le xylophone", "Le glockenspiel", "Les timbales", "Le triangle"],
+    "correctAnswer": "Le glockenspiel"
+  },
+  {
+    "questionText": "Quel compositeur italien a écrit 'Les Noces de Figaro' ?",
+    "options": ["Verdi", "Mozart (il est autrichien mais l'opéra est en italien)", "Rossini", "Donizetti"],
+    "correctAnswer": "Mozart (il est autrichien mais l'opéra est en italien)"
+  },
+  {
+    "questionText": "Quel est l'ancêtre du piano moderne, très utilisé à l'époque baroque ?",
+    "options": ["Le clavecin", "La harpe", "Le luth", "L'orgue"],
+    "correctAnswer": "Le clavecin"
+  },
+  {
+    "questionText": "Qui a écrit la marche nuptiale la plus célèbre (Songe d'une nuit d'été) ?",
+    "options": ["Mendelssohn", "Wagner", "Brahms", "Liszt"],
+    "correctAnswer": "Mendelssohn"
+  },
+  {
+    "questionText": "Quel compositeur est célèbre pour son 'Canon' souvent joué lors des mariages ?",
+    "options": ["Pachelbel", "Albinoni", "Vivaldi", "Bach"],
+    "correctAnswer": "Pachelbel"
+  }
+]

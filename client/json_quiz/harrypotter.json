@@ -1,0 +1,152 @@
+[
+  {
+    "questionText": "Quel est le véritable nom de Lord Voldemort ?",
+    "options": ["Tom Elvis Jedusor", "Tom Marvolo Riddle", "Salazar Serpentard", "Gellert Grindelwald"],
+    "correctAnswer": "Tom Elvis Jedusor"
+  },
+  {
+    "questionText": "Quel est le premier Horcruxe détruit par Harry (volontairement ou non) ?",
+    "options": ["La bague de Gaunt", "Le médaillon de Serpentard", "Le journal de Jedusor", "La coupe de Poufsouffle"],
+    "correctAnswer": "Le journal de Jedusor"
+  },
+  {
+    "questionText": "Qui est le Prince de Sang-Mêlé ?",
+    "options": ["Sirius Black", "Severus Rogue", "Albus Dumbledore", "Remus Lupin"],
+    "correctAnswer": "Severus Rogue"
+  },
+  {
+    "questionText": "Quel animal constitue le Patronus de Luna Lovegood ?",
+    "options": ["Une loutre", "Un lièvre", "Un renard", "Un cygne"],
+    "correctAnswer": "Un lièvre"
+  },
+  {
+    "questionText": "Quel est le nom de l'elfe de maison de la famille Black ?",
+    "options": ["Dobby", "Winky", "Kreattur", "Hokey"],
+    "correctAnswer": "Kreattur"
+  },
+  {
+    "questionText": "Dans quel film/livre Harry participe-t-il au Tournoi des Trois Sorciers ?",
+    "options": ["La Chambre des Secrets", "Le Prisonnier d'Azkaban", "La Coupe de Feu", "L'Ordre du Phénix"],
+    "correctAnswer": "La Coupe de Feu"
+  },
+  {
+    "questionText": "Quel objet permet à Hermione de suivre plusieurs cours en même temps ?",
+    "options": ["Le Retourneur de Temps", "La Cape d'Invisibilité", "Le Pensine", "Le Rapeltout"],
+    "correctAnswer": "Le Retourneur de Temps"
+  },
+  {
+    "questionText": "Quel est le mot de passe pour entrer dans le bureau de Dumbledore ?",
+    "options": ["Citron Sherbet", "Chocogrenouille", "Sucrefilé", "Fizzwizbiz"],
+    "correctAnswer": "Citron Sherbet"
+  },
+  {
+    "questionText": "Qui a remplacé la Grosse Dame après son agression dans le tome 3 ?",
+    "options": ["Le Baron Sanglant", "Le Chevalier du Catogan", "Nick Quasi-Sans-Tête", "Peeves"],
+    "correctAnswer": "Le Chevalier du Catogan"
+  },
+  {
+    "questionText": "Quel est le nom de la prison des sorciers en Europe continentale (pas Azkaban) ?",
+    "options": ["Nurmengard", "Gringotts", "Pré-au-Lard", "Le Terrier"],
+    "correctAnswer": "Nurmengard"
+  },
+  {
+    "questionText": "Quel ingrédient manque à Neville pour réussir sa potion dans le premier film ?",
+    "options": ["Des orties séchées", "Des crocs de serpent", "Des cornes de limaces", "Des poils de rat"],
+    "correctAnswer": "Des cornes de limaces"
+  },
+  {
+    "questionText": "Qui est le parrain de Harry Potter ?",
+    "options": ["Remus Lupin", "Alastor Moody", "Sirius Black", "Rubeus Hagrid"],
+    "correctAnswer": "Sirius Black"
+  },
+  {
+    "questionText": "Comment s'appelle le chat de Rusard ?",
+    "options": ["Pattenrond", "Miss Teigne", "Aragog", " Crockdur"],
+    "correctAnswer": "Miss Teigne"
+  },
+  {
+    "questionText": "Quelle position occupe Ron Weasley dans l'équipe de Quidditch de Gryffondor ?",
+    "options": ["Attrapeur", "Batteur", "Poursuiveur", "Gardien"],
+    "correctAnswer": "Gardien"
+  },
+  {
+    "questionText": "Quel est le nom du pub situé à l'entrée du Chemin de Traverse ?",
+    "options": ["La Tête de Sanglier", "Les Trois Balais", "Le Chaudron Baveur", "L'Auberge de l'Ours"],
+    "correctAnswer": "Le Chaudron Baveur"
+  },
+  {
+    "questionText": "Dans quel département du Ministère de la Magie travaille Arthur Weasley ?",
+    "options": ["Service des Transports", "Détournement de l'artisanat Moldu", "Justice Magique", "Mystères"],
+    "correctAnswer": "Détournement de l'artisanat Moldu"
+  },
+  {
+    "questionText": "Quel est le nom de l'oiseau de Dumbledore ?",
+    "options": ["Fumseck", "Errol", "Coquecigrue", "Hermès"],
+    "correctAnswer": "Fumseck"
+  },
+  {
+    "questionText": "Quel est l'effet du sortilège 'Sectumsempra' ?",
+    "options": ["Fait léviter", "Désarme", "Provoque des coupures profondes", "Efface la mémoire"],
+    "correctAnswer": "Provoque des coupures profondes"
+  },
+  {
+    "questionText": "Qui a tué Bellatrix Lestrange lors de la bataille de Poudlard ?",
+    "options": ["Hermione Granger", "Molly Weasley", "Ginny Weasley", "Neville Londubat"],
+    "correctAnswer": "Molly Weasley"
+  },
+  {
+    "questionText": "Quelle est l'adresse exacte de la maison de la tante et de l'oncle de Harry ?",
+    "options": ["4 Privet Drive", "12 Square Grimmaurd", "7 Chemin de Traverse", "10 Spinner's End"],
+    "correctAnswer": "4 Privet Drive"
+  },
+  {
+    "questionText": "Comment s'appelle la radio clandestine dirigée par les jumeaux Weasley et Lee Jordan ?",
+    "options": ["Radio Poudlard", "Potterveille", "Le Cri du Phénix", "Voix de la Résistance"],
+    "correctAnswer": "Potterveille"
+  },
+  {
+    "questionText": "Quel est le nom de la mère de Drago Malefoy ?",
+    "options": ["Narcissa", "Bellatrix", "Andromeda", "Walburga"],
+    "correctAnswer": "Narcissa"
+  },
+  {
+    "questionText": "Lequel de ces objets n'est PAS une Relique de la Mort ?",
+    "options": ["La Baguette de Sureau", "La Pierre de Résurrection", "La Cape d'Invisibilité", "Le Choixpeau Magique"],
+    "correctAnswer": "Le Choixpeau Magique"
+  },
+  {
+    "questionText": "Quel est le surnom de Remus Lupin chez les Maraudeurs ?",
+    "options": ["Lunard", "Queudver", "Patmol", "Cornedrue"],
+    "correctAnswer": "Lunard"
+  },
+  {
+    "questionText": "Qui a gagné le premier point pour Gryffondor dans 'L'école des sorciers' ?",
+    "options": ["Harry Potter", "Hermione Granger", "Ron Weasley", "Neville Londubat"],
+    "correctAnswer": "Hermione Granger"
+  },
+  {
+    "questionText": "Comment appelle-t-on un sorcier né de parents moldus ?",
+    "options": ["Cracmol", "Né-Moldu", "Sang-Pur", "Hybride"],
+    "correctAnswer": "Né-Moldu"
+  },
+  {
+    "questionText": "Dans quel bois la baguette de Harry est-elle fabriquée ?",
+    "options": ["Houx", "Sureau", "Vigne", "Saule"],
+    "correctAnswer": "Houx"
+  },
+  {
+    "questionText": "Quelle créature protège le coffre des Lestrange à Gringotts ?",
+    "options": ["Un Sphinx", "Un Dragon", "Un Basilic", "Un Loup-Garou"],
+    "correctAnswer": "Un Dragon"
+  },
+  {
+    "questionText": "Quel est le nom du bus pour les sorciers en perdition ?",
+    "options": ["Le Magicobus", "Le Nimbus", "Le Poudlard Express", "Le Carrosse"],
+    "correctAnswer": "Le Magicobus"
+  },
+  {
+    "questionText": "Qui a volé le vrai médaillon de Serpentard avant Harry ?",
+    "options": ["Mundungus Fletcher", "R.A.B.", "Regulus Black", "R.A.B."],
+    "correctAnswer": "R.A.B."
+  }
+]

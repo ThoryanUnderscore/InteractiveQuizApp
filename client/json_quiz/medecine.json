@@ -1,0 +1,152 @@
+[
+  {
+    "questionText": "Quel médecin de l'Antiquité est considéré comme le 'Père de la médecine' ?",
+    "options": ["Galien", "Hippocrate", "Aristote", "Asclépios"],
+    "correctAnswer": "Hippocrate"
+  },
+  {
+    "questionText": "Quel est l'os le plus long du corps humain ?",
+    "options": ["L'humérus", "Le tibia", "Le fémur", "Le radius"],
+    "correctAnswer": "Le fémur"
+  },
+  {
+    "questionText": "Qui a découvert la pénicilline en 1928 ?",
+    "options": ["Louis Pasteur", "Alexander Fleming", "Marie Curie", "Robert Koch"],
+    "correctAnswer": "Alexander Fleming"
+  },
+  {
+    "questionText": "Comment appelle-t-on le spécialiste des maladies du cœur ?",
+    "options": ["Néphrologue", "Cardiologue", "Pneumologue", "Gastro-entérologue"],
+    "correctAnswer": "Cardiologue"
+  },
+  {
+    "questionText": "Quel organe est responsable de la production d'insuline ?",
+    "options": ["Le foie", "La rate", "Le pancréas", "Le rein"],
+    "correctAnswer": "Le pancréas"
+  },
+  {
+    "questionText": "Quel est le groupe sanguin considéré comme le 'donneur universel' ?",
+    "options": ["AB+", "O-", "A+", "B-"],
+    "correctAnswer": "O-"
+  },
+  {
+    "questionText": "Combien de vertèbres compte normalement la colonne vertébrale humaine ?",
+    "options": ["24", "33", "12", "40"],
+    "correctAnswer": "33"
+  },
+  {
+    "questionText": "Quel instrument est utilisé par le médecin pour écouter les bruits du cœur et des poumons ?",
+    "options": ["Le tensiomètre", "L'otoscope", "Le stéthoscope", "Le scalpel"],
+    "correctAnswer": "Le stéthoscope"
+  },
+  {
+    "questionText": "Quelle maladie est caractérisée par une augmentation anormale du taux de sucre dans le sang ?",
+    "options": ["Le cholestérol", "L'anémie", "Le diabète", "L'hypertension"],
+    "correctAnswer": "Le diabète"
+  },
+  {
+    "questionText": "Qui a mis au point le premier vaccin contre la rage ?",
+    "options": ["Louis Pasteur", "Edward Jenner", "Albert Calmette", "Jonas Salk"],
+    "correctAnswer": "Louis Pasteur"
+  },
+  {
+    "questionText": "Quel est l'organe le plus grand du corps humain ?",
+    "options": ["Le cerveau", "Le foie", "La peau", "Les poumons"],
+    "correctAnswer": "La peau"
+  },
+  {
+    "questionText": "Comment appelle-t-on une inflammation de l'appendice ?",
+    "options": ["Gastrite", "Péritonite", "Appendicite", "Colite"],
+    "correctAnswer": "Appendicite"
+  },
+  {
+    "questionText": "Quelle vitamine est principalement synthétisée par la peau grâce au soleil ?",
+    "options": ["Vitamine C", "Vitamine A", "Vitamine D", "Vitamine B12"],
+    "correctAnswer": "Vitamine D"
+  },
+  {
+    "questionText": "Quel est le nom de la membrane qui enveloppe les poumons ?",
+    "options": ["Le péricarde", "La plèvre", "Le péritoine", "Le méninge"],
+    "correctAnswer": "La plèvre"
+  },
+  {
+    "questionText": "Quel gaz les globules rouges transportent-ils des poumons vers les tissus ?",
+    "options": ["Azote", "Dioxyde de carbone", "Oxygène", "Hydrogène"],
+    "correctAnswer": "Oxygène"
+  },
+  {
+    "questionText": "Comment appelle-t-on la perte de mémoire partielle ou totale ?",
+    "options": ["Aphasie", "Ataxie", "Amnésie", "Apnée"],
+    "correctAnswer": "Amnésie"
+  },
+  {
+    "questionText": "Quelle est la spécialité médicale qui s'occupe des enfants ?",
+    "options": ["Gériatrie", "Pédiatrie", "Obstétrique", "Dermatologie"],
+    "correctAnswer": "Pédiatrie"
+  },
+  {
+    "questionText": "Quelle partie de l'œil est colorée ?",
+    "options": ["La pupille", "La cornée", "L'iris", "La rétine"],
+    "correctAnswer": "L'iris"
+  },
+  {
+    "questionText": "Quel est le nom du pigment qui donne sa couleur à la peau ?",
+    "options": ["Kératine", "Mélanine", "Hémoglobine", "Collagène"],
+    "correctAnswer": "Mélanine"
+  },
+  {
+    "questionText": "Qui a découvert les rayons X en 1895 ?",
+    "options": ["Wilhelm Röntgen", "Henri Becquerel", "Max Planck", "Nikola Tesla"],
+    "correctAnswer": "Wilhelm Röntgen"
+  },
+  {
+    "questionText": "Comment appelle-t-on une fracture où l'os perce la peau ?",
+    "options": ["Fracture simple", "Fracture fermée", "Fracture ouverte", "Fracture de fatigue"],
+    "correctAnswer": "Fracture ouverte"
+  },
+  {
+    "questionText": "Quel organe est affecté par une hépatite ?",
+    "options": ["Le rein", "Le foie", "La rate", "Le pancréas"],
+    "correctAnswer": "Le foie"
+  },
+  {
+    "questionText": "Quelle est la tension artérielle considérée comme 'normale' (en mmHg) ?",
+    "options": ["10/6", "12/8", "15/9", "18/10"],
+    "correctAnswer": "12/8"
+  },
+  {
+    "questionText": "Quel est le nom scientifique des 'globules blancs' ?",
+    "options": ["Érythrocytes", "Leucocytes", "Thrombocytes", "Hématies"],
+    "correctAnswer": "Leucocytes"
+  },
+  {
+    "questionText": "Comment appelle-t-1 l'arrêt temporaire de la respiration pendant le sommeil ?",
+    "options": ["Insomnie", "Apnée du sommeil", "Narcolepsie", "Somnambulisme"],
+    "correctAnswer": "Apnée du sommeil"
+  },
+  {
+    "questionText": "Quelle hormone est souvent appelée 'l'hormone du stress' ?",
+    "options": ["Sérotonine", "Mélatonine", "Cortisol", "Ocytocine"],
+    "correctAnswer": "Cortisol"
+  },
+  {
+    "questionText": "Comment s'appelle l'étude des tissus biologiques ?",
+    "options": ["Cytologie", "Histologie", "Étiologie", "Anatomie"],
+    "correctAnswer": "Histologie"
+  },
+  {
+    "questionText": "Quel médecin français a inventé le stéthoscope en 1816 ?",
+    "options": ["René Laennec", "Ambroise Paré", "Claude Bernard", "Jean-Martin Charcot"],
+    "correctAnswer": "René Laennec"
+  },
+  {
+    "questionText": "Quelle maladie est causée par une carence sévère en vitamine C ?",
+    "options": ["Le rachitisme", "Le scorbut", "Le béribéri", "La pellagre"],
+    "correctAnswer": "Le scorbut"
+  },
+  {
+    "questionText": "Quel est le principal neurotransmetteur impliqué dans la régulation de l'humeur ?",
+    "options": ["Dopamine", "Sérotonine", "Acétylcholine", "Glutamate"],
+    "correctAnswer": "Sérotonine"
+  }
+]

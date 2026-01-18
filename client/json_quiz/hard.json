@@ -1,0 +1,152 @@
+[
+  {
+    "questionText": "Quel pays a remporté la première Coupe du Monde de football en 1930 ?",
+    "options": ["Brésil", "Argentine", "Uruguay", "Italie"],
+    "correctAnswer": "Uruguay"
+  },
+  {
+    "questionText": "Quelle est la capitale du Canada ?",
+    "options": ["Toronto", "Montréal", "Vancouver", "Ottawa"],
+    "correctAnswer": "Ottawa"
+  },
+  {
+    "questionText": "Quel est le plus grand océan du monde ?",
+    "options": ["Atlantique", "Indien", "Pacifique", "Arctique"],
+    "correctAnswer": "Pacifique"
+  },
+  {
+    "questionText": "En quelle année a eu lieu la chute du mur de Berlin ?",
+    "options": ["1987", "1989", "1991", "1993"],
+    "correctAnswer": "1989"
+  },
+  {
+    "questionText": "Quel gaz compose majoritairement l'air que nous respirons ?",
+    "options": ["Oxygène", "Azote", "Dioxyde de carbone", "Hydrogène"],
+    "correctAnswer": "Azote"
+  },
+  {
+    "questionText": "Qui a peint la fresque de la Chapelle Sixtine ?",
+    "options": ["Léonard de Vinci", "Michel-Ange", "Raphaël", "Donatello"],
+    "correctAnswer": "Michel-Ange"
+  },
+  {
+    "questionText": "Quelle est la monnaie officielle du Japon ?",
+    "options": ["Yuan", "Won", "Yen", "Ringgit"],
+    "correctAnswer": "Yen"
+  },
+  {
+    "questionText": "Quel est le plus long fleuve du monde ?",
+    "options": ["Le Nil", "L'Amazone", "Le Mississippi", "Le Yangtsé"],
+    "correctAnswer": "L'Amazone"
+  },
+  {
+    "questionText": "Qui a écrit 'Les Misérables' ?",
+    "options": ["Émile Zola", "Gustave Flaubert", "Victor Hugo", "Honoré de Balzac"],
+    "correctAnswer": "Victor Hugo"
+  },
+  {
+    "questionText": "Quel est l'organe le plus lourd du corps humain ?",
+    "options": ["Le cerveau", "Le foie", "La peau", "Le cœur"],
+    "correctAnswer": "La peau"
+  },
+  {
+    "questionText": "Dans quel pays se trouve le Machu Picchu ?",
+    "options": ["Chili", "Bolivie", "Pérou", "Colombie"],
+    "correctAnswer": "Pérou"
+  },
+  {
+    "questionText": "Quelle planète est surnommée la planète rouge ?",
+    "options": ["Vénus", "Mars", "Jupiter", "Saturne"],
+    "correctAnswer": "Mars"
+  },
+  {
+    "questionText": "Qui a découvert la radioactivité ?",
+    "options": ["Marie Curie", "Albert Einstein", "Isaac Newton", "Henri Becquerel"],
+    "correctAnswer": "Henri Becquerel"
+  },
+  {
+    "questionText": "Quel est le symbole chimique de l'or ?",
+    "options": ["Ag", "Fe", "Au", "Pb"],
+    "correctAnswer": "Au"
+  },
+  {
+    "questionText": "Quelle est la capitale de la Turquie ?",
+    "options": ["Istanbul", "Ankara", "Izmir", "Antalya"],
+    "correctAnswer": "Ankara"
+  },
+  {
+    "questionText": "Quel est le nom du célèbre détective créé par Arthur Conan Doyle ?",
+    "options": ["Hercule Poirot", "Sherlock Holmes", "Arsène Lupin", "Jules Maigret"],
+    "correctAnswer": "Sherlock Holmes"
+  },
+  {
+    "questionText": "Dans quel film entend-on la réplique : 'Je vais lui faire une offre qu'il ne pourra pas refuser' ?",
+    "options": ["Scarface", "Le Parrain", "Les Affranchis", "Casino"],
+    "correctAnswer": "Le Parrain"
+  },
+  {
+    "questionText": "Quelle est la capitale de l'Islande ?",
+    "options": ["Oslo", "Reykjavik", "Stockholm", "Helsinki"],
+    "correctAnswer": "Reykjavik"
+  },
+  {
+    "questionText": "Qui a inventé le vaccin contre la rage ?",
+    "options": ["Alexander Fleming", "Louis Pasteur", "Robert Koch", "Charles Darwin"],
+    "correctAnswer": "Louis Pasteur"
+  },
+  {
+    "questionText": "Quel est l'animal terrestre le plus rapide ?",
+    "options": ["Le lion", "L'autruche", "Le guépard", "L'antilope"],
+    "correctAnswer": "Le guépard"
+  },
+  {
+    "questionText": "Dans quelle ville se trouve le Colisée ?",
+    "options": ["Athènes", "Rome", "Naples", "Florence"],
+    "correctAnswer": "Rome"
+  },
+  {
+    "questionText": "Quelle est la langue la plus parlée au monde (langue maternelle) ?",
+    "options": ["Anglais", "Espagnol", "Mandarin", "Hindi"],
+    "correctAnswer": "Mandarin"
+  },
+  {
+    "questionText": "Quel est le métal le plus abondant sur Terre ?",
+    "options": ["Fer", "Aluminium", "Cuivre", "Nickel"],
+    "correctAnswer": "Aluminium"
+  },
+  {
+    "questionText": "Qui était le président des États-Unis pendant la Guerre de Sécession ?",
+    "options": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "Andrew Jackson"],
+    "correctAnswer": "Abraham Lincoln"
+  },
+  {
+    "questionText": "Quel pays a offert la Statue de la Liberté aux États-Unis ?",
+    "options": ["Royaume-Uni", "France", "Italie", "Allemagne"],
+    "correctAnswer": "France"
+  },
+  {
+    "questionText": "Combien de cœurs possède une pieuvre ?",
+    "options": ["1", "2", "3", "4"],
+    "correctAnswer": "3"
+  },
+  {
+    "questionText": "Quel est l'inventeur de l'ampoule électrique ?",
+    "options": ["Nikola Tesla", "Thomas Edison", "Graham Bell", "James Watt"],
+    "correctAnswer": "Thomas Edison"
+  },
+  {
+    "questionText": "Quel est le plus petit pays du monde ?",
+    "options": ["Monaco", "Saint-Marin", "Le Vatican", "Malte"],
+    "correctAnswer": "Le Vatican"
+  },
+  {
+    "questionText": "Dans quelle mer se jette le Nil ?",
+    "options": ["Mer Rouge", "Mer Méditerranée", "Mer Caspienne", "Mer Morte"],
+    "correctAnswer": "Mer Méditerranée"
+  },
+  {
+    "questionText": "Quel est le nom du sommet le plus élevé d'Afrique ?",
+    "options": ["Mont Blanc", "Mont Everest", "Kilimandjaro", "Mont Kenya"],
+    "correctAnswer": "Kilimandjaro"
+  }
+]

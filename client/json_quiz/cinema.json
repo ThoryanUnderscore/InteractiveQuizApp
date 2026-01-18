@@ -1,0 +1,152 @@
+[
+  {
+    "questionText": "Qui a réalisé le film 'Psychose' en 1960 ?",
+    "options": ["Orson Welles", "Alfred Hitchcock", "Stanley Kubrick", "Billy Wilder"],
+    "correctAnswer": "Alfred Hitchcock"
+  },
+  {
+    "questionText": "Quel acteur incarne Vito Corleone dans 'Le Parrain' (1972) ?",
+    "options": ["Al Pacino", "Robert De Niro", "Marlon Brando", "Dustin Hoffman"],
+    "correctAnswer": "Marlon Brando"
+  },
+  {
+    "questionText": "Dans 'Pulp Fiction', que contient la mallette que Jules et Vincent doivent récupérer ?",
+    "options": ["De l'or", "Des diamants", "On ne le sait jamais", "Une âme"],
+    "correctAnswer": "On ne le sait jamais"
+  },
+  {
+    "questionText": "Quel est le premier long-métrage d'animation de Disney sorti en 1937 ?",
+    "options": ["Pinocchio", "Bambi", "Blanche-Neige et les Sept Nains", "Fantasia"],
+    "correctAnswer": "Blanche-Neige et les Sept Nains"
+  },
+  {
+    "questionText": "Quel film détient le record du plus grand nombre d'Oscars (11), à égalité avec Ben-Hur et Titanic ?",
+    "options": ["Le Seigneur des Anneaux : Le Retour du Roi", "Autant en emporte le vent", "Forrest Gump", "La Liste de Schindler"],
+    "correctAnswer": "Le Seigneur des Anneaux : Le Retour du Roi"
+  },
+  {
+    "questionText": "Qui a réalisé 'Inception' et 'Interstellar' ?",
+    "options": ["Steven Spielberg", "Christopher Nolan", "James Cameron", "Ridley Scott"],
+    "correctAnswer": "Christopher Nolan"
+  },
+  {
+    "questionText": "Dans quel film de 1994 Tom Hanks court-il à travers les États-Unis ?",
+    "options": ["Philadelphia", "Seul au monde", "Forrest Gump", "Apollo 13"],
+    "correctAnswer": "Forrest Gump"
+  },
+  {
+    "questionText": "Quel réalisateur est connu pour son style symétrique et ses couleurs pastel (ex: The Grand Budapest Hotel) ?",
+    "options": ["Wes Anderson", "Tim Burton", "Quentin Tarantino", "David Lynch"],
+    "correctAnswer": "Wes Anderson"
+  },
+  {
+    "questionText": "Quel film de science-fiction de 1982 met en scène des 'Réplicants' ?",
+    "options": ["Star Wars", "E.T.", "Blade Runner", "Tron"],
+    "correctAnswer": "Blade Runner"
+  },
+  {
+    "questionText": "Quelle actrice détient le record du plus grand nombre d'Oscars de la meilleure actrice (4) ?",
+    "options": ["Meryl Streep", "Katharine Hepburn", "Ingrid Bergman", "Cate Blanchett"],
+    "correctAnswer": "Katharine Hepburn"
+  },
+  {
+    "questionText": "Quel est le nom du requin mécanique sur le tournage des 'Dents de la mer' ?",
+    "options": ["Bruce", "Jaws", "Fin", "Sharky"],
+    "correctAnswer": "Bruce"
+  },
+  {
+    "questionText": "Dans 'Star Wars', qui est le père de Luke Skywalker ?",
+    "options": ["Obi-Wan Kenobi", "Dark Vador", "Yoda", "Palpatine"],
+    "correctAnswer": "Dark Vador"
+  },
+  {
+    "questionText": "Quel film de 2019 est devenu le premier film non-anglophone à gagner l'Oscar du meilleur film ?",
+    "options": ["Roma", "Parasite", "Amour", "La Vie est Belle"],
+    "correctAnswer": "Parasite"
+  },
+  {
+    "questionText": "Qui joue le rôle de Jack Sparrow dans la saga 'Pirates des Caraïbes' ?",
+    "options": ["Orlando Bloom", "Geoffrey Rush", "Johnny Depp", "Javier Bardem"],
+    "correctAnswer": "Johnny Depp"
+  },
+  {
+    "questionText": "Quel réalisateur français a créé le personnage de 'Monsieur Hulot' ?",
+    "options": ["Jean-Luc Godard", "François Truffaut", "Jacques Tati", "Claude Chabrol"],
+    "correctAnswer": "Jacques Tati"
+  },
+  {
+    "questionText": "Quel film de Stanley Kubrick se déroule principalement dans l'hôtel Overlook ?",
+    "options": ["2001, l'Odyssée de l'espace", "Orange Mécanique", "Shining", "Full Metal Jacket"],
+    "correctAnswer": "Shining"
+  },
+  {
+    "questionText": "Quelle est la récompense suprême décernée au Festival de Cannes ?",
+    "options": ["L'Ours d'Or", "Le Lion d'Or", "La Palme d'Or", "L'Oscar"],
+    "correctAnswer": "La Palme d'Or"
+  },
+  {
+    "questionText": "Dans 'Matrix', quelle pilule Neo choisit-il pour découvrir la vérité ?",
+    "options": ["La bleue", "La rouge", "La verte", "La jaune"],
+    "correctAnswer": "La rouge"
+  },
+  {
+    "questionText": "Quel film de 1939 commence par la phrase : 'Toto, j'ai l'impression que nous ne sommes plus au Kansas' ?",
+    "options": ["Autant en emporte le vent", "Le Magicien d'Oz", "King Kong", "Les Temps Modernes"],
+    "correctAnswer": "Le Magicien d'Oz"
+  },
+  {
+    "questionText": "Quel acteur incarne James Bond le plus de fois officiellement au cinéma ?",
+    "options": ["Sean Connery", "Roger Moore", "Daniel Craig", "Pierce Brosnan"],
+    "correctAnswer": "Roger Moore"
+  },
+  {
+    "questionText": "Qui a réalisé le film 'La Liste de Schindler' ?",
+    "options": ["Martin Scorsese", "Steven Spielberg", "Francis Ford Coppola", "Clint Eastwood"],
+    "correctAnswer": "Steven Spielberg"
+  },
+  {
+    "questionText": "Quel est le nom du robot doré dans 'Star Wars' ?",
+    "options": ["R2-D2", "C-3PO", "BB-8", "K-2SO"],
+    "correctAnswer": "C-3PO"
+  },
+  {
+    "questionText": "Dans quel film d'animation suit-on les aventures de Woody et Buzz l'Éclair ?",
+    "options": ["Shrek", "L'Âge de Glace", "Toy Story", "Cars"],
+    "correctAnswer": "Toy Story"
+  },
+  {
+    "questionText": "Quel film de 1997 met en scène Leonardo DiCaprio et Kate Winslet sur un paquebot ?",
+    "options": ["Titanic", "Avatar", "Inception", "The Revenant"],
+    "correctAnswer": "Titanic"
+  },
+  {
+    "questionText": "Quel est le premier film sonore de l'histoire (1927) ?",
+    "options": ["Le Chanteur de Jazz", "Metropolis", "Le Dictateur", "L'Aurore"],
+    "correctAnswer": "Le Chanteur de Jazz"
+  },
+  {
+    "questionText": "Qui joue le Joker dans 'The Dark Knight' (2008) ?",
+    "options": ["Jack Nicholson", "Jared Leto", "Heath Ledger", "Joaquin Phoenix"],
+    "correctAnswer": "Heath Ledger"
+  },
+  {
+    "questionText": "Quel réalisateur est célèbre pour ses caméos dans presque tous ses propres films ?",
+    "options": ["Alfred Hitchcock", "M. Night Shyamalan", "Quentin Tarantino", "Stan Lee (pas un réalisateur)"],
+    "correctAnswer": "Alfred Hitchcock"
+  },
+  {
+    "questionText": "Dans 'Le Silence des Agneaux', quel est le métier d'Hannibal Lecter ?",
+    "options": ["Chirurgien", "Psychiatre", "Avocat", "Écrivain"],
+    "correctAnswer": "Psychiatre"
+  },
+  {
+    "questionText": "Quel pays a inventé le genre 'Western Spaghetti' ?",
+    "options": ["États-Unis", "Espagne", "Italie", "Mexique"],
+    "correctAnswer": "Italie"
+  },
+  {
+    "questionText": "Quel film d'horreur de 1973 raconte l'exorcisme d'une jeune fille nommée Regan ?",
+    "options": ["L'Exorciste", "Halloween", "Massacre à la tronçonneuse", "Amityville"],
+    "correctAnswer": "L'Exorciste"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "questionText": "Lequel de ces pays ne possède pas d'accès à la mer ?",
+    "options": ["Suisse", "Belgique", "Portugal", "Norvège"],
+    "correctAnswer": "Suisse"
+  },
+  {
+    "questionText": "Quelle est la capitale du Brésil ?",
+    "options": ["Rio de Janeiro", "Sao Paulo", "Brasilia", "Salvador"],
+    "correctAnswer": "Brasilia"
+  },
+  {
+    "questionText": "Combien de joueurs y a-t-il dans une équipe de basket-ball sur le terrain ?",
+    "options": ["5", "6", "7", "11"],
+    "correctAnswer": "5"
+  },
+  {
+    "questionText": "Quel célèbre scientifique a formulé la loi de la gravitation universelle ?",
+    "options": ["Albert Einstein", "Isaac Newton", "Charles Darwin", "Galilée"],
+    "correctAnswer": "Isaac Newton"
+  },
+  {
+    "questionText": "Dans quel pays se trouve le célèbre site d'Angkor Wat ?",
+    "options": ["Thaïlande", "Vietnam", "Cambodge", "Laos"],
+    "correctAnswer": "Cambodge"
+  },
+  {
+    "questionText": "Quelle est la monnaie utilisée au Royaume-Uni ?",
+    "options": ["Euro", "Dollar", "Livre Sterling", "Franc"],
+    "correctAnswer": "Livre Sterling"
+  },
+  {
+    "questionText": "Quel est l'élément chimique représenté par le symbole 'O' ?",
+    "options": ["Or", "Oxygène", "Osmium", "Ozone"],
+    "correctAnswer": "Oxygène"
+  },
+  {
+    "questionText": "Qui a peint 'La Nuit étoilée' ?",
+    "options": ["Pablo Picasso", "Claude Monet", "Vincent van Gogh", "Salvador Dalí"],
+    "correctAnswer": "Vincent van Gogh"
+  },
+  {
+    "questionText": "Quel est le plus grand mammifère du monde ?",
+    "options": ["Éléphant d'Afrique", "Baleine bleue", "Requin-baleine", "Girafe"],
+    "correctAnswer": "Baleine bleue"
+  },
+  {
+    "questionText": "Quel pays a pour hymne national 'La Marseillaise' ?",
+    "options": ["Belgique", "France", "Suisse", "Canada"],
+    "correctAnswer": "France"
+  },
+  {
+    "questionText": "En quelle année l'homme a-t-il marché sur la Lune pour la première fois ?",
+    "options": ["1961", "1965", "1969", "1972"],
+    "correctAnswer": "1969"
+  },
+  {
+    "questionText": "Quel est l'acteur principal du film 'Forrest Gump' ?",
+    "options": ["Brad Pitt", "Tom Hanks", "Leonardo DiCaprio", "Johnny Depp"],
+    "correctAnswer": "Tom Hanks"
+  },
+  {
+    "questionText": "Quelle ville est surnommée 'La Grosse Pomme' ?",
+    "options": ["Londres", "Paris", "New York", "Los Angeles"],
+    "correctAnswer": "New York"
+  },
+  {
+    "questionText": "Quel organe permet aux poissons de respirer sous l'eau ?",
+    "options": ["Poumons", "Branchies", "Nageoires", "Écailles"],
+    "correctAnswer": "Branchies"
+  },
+  {
+    "questionText": "Qui est l'auteur de la saga 'Harry Potter' ?",
+    "options": ["J.R.R. Tolkien", "George R.R. Martin", "J.K. Rowling", "Stephen King"],
+    "correctAnswer": "J.K. Rowling"
+  },
+  {
+    "questionText": "Quel pays est le plus grand du monde en termes de superficie ?",
+    "options": ["Canada", "Chine", "USA", "Russie"],
+    "correctAnswer": "Russie"
+  },
+  {
+    "questionText": "Combien y a-t-il de planètes dans notre système solaire ?",
+    "options": ["7", "8", "9", "10"],
+    "correctAnswer": "8"
+  },
+  {
+    "questionText": "Quelle est la capitale de l'Italie ?",
+    "options": ["Milan", "Venise", "Rome", "Naples"],
+    "correctAnswer": "Rome"
+  },
+  {
+    "questionText": "Quel est le principal ingrédient du guacamole ?",
+    "options": ["Tomate", "Oignon", "Avocat", "Poivron"],
+    "correctAnswer": "Avocat"
+  },
+  {
+    "questionText": "Qui a écrit la pièce de théâtre 'Roméo et Juliette' ?",
+    "options": ["Molière", "William Shakespeare", "Voltaire", "Arthur Miller"],
+    "correctAnswer": "William Shakespeare"
+  },
+  {
+    "questionText": "Quel est l'océan qui borde la côte ouest de l'Afrique ?",
+    "options": ["Océan Pacifique", "Océan Indien", "Océan Atlantique", "Océan Arctique"],
+    "correctAnswer": "Océan Atlantique"
+  },
+  {
+    "questionText": "Quelle est la couleur obtenue en mélangeant du bleu et du jaune ?",
+    "options": ["Violet", "Vert", "Orange", "Marron"],
+    "correctAnswer": "Vert"
+  },
+  {
+    "questionText": "Quel instrument de musique possède 88 touches ?",
+    "options": ["La harpe", "Le piano", "L'accordéon", "Le clavecin"],
+    "correctAnswer": "Le piano"
+  },
+  {
+    "questionText": "Quelle est la plus haute montagne d'Europe ?",
+    "options": ["Mont Blanc", "Mont Olympe", "Mont Elbrouz", "L'Etna"],
+    "correctAnswer": "Mont Elbrouz"
+  },
+  {
+    "questionText": "Quel animal est le symbole de l'Australie ?",
+    "options": ["Le Koala", "Le Kangourou", "L'Émeu", "Le Wombat"],
+    "correctAnswer": "Le Kangourou"
+  },
+  {
+    "questionText": "Quelle invention est attribuée aux frères Lumière ?",
+    "options": ["L'avion", "Le téléphone", "Le cinéma", "L'ampoule"],
+    "correctAnswer": "Le cinéma"
+  },
+  {
+    "questionText": "Combien de continents y a-t-il sur Terre ?",
+    "options": ["5", "6", "7", "8"],
+    "correctAnswer": "7"
+  },
+  {
+    "questionText": "Quel est le nom du navire qui a coulé en 1912 après avoir heurté un iceberg ?",
+    "options": ["Britannic", "Olympic", "Titanic", "Lusitania"],
+    "correctAnswer": "Titanic"
+  },
+  {
+    "questionText": "Quelle est la capitale de l'Espagne ?",
+    "options": ["Barcelone", "Valence", "Séville", "Madrid"],
+    "correctAnswer": "Madrid"
+  },
+  {
+    "questionText": "Quel super-héros est surnommé 'L'homme de fer' ?",
+    "options": ["Batman", "Iron Man", "Superman", "Thor"],
+    "correctAnswer": "Iron Man"
+  }
+]

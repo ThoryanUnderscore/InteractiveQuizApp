@@ -1,0 +1,152 @@
+[
+  {
+    "questionText": "Quel studio d'animation a produit les films 'Le Voyage de Chihiro' et 'Mon Voisin Totoro' ?",
+    "options": ["Pixar", "Dreamworks", "Studio Ghibli", "Sunrise"],
+    "correctAnswer": "Studio Ghibli"
+  },
+  {
+    "questionText": "Dans quelle ville se déroule l'intrigue de la série 'Peaky Blinders' ?",
+    "options": ["Londres", "Liverpool", "Birmingham", "Manchester"],
+    "correctAnswer": "Birmingham"
+  },
+  {
+    "questionText": "Quel est le nom de l'album le plus vendu de l'histoire de la musique ?",
+    "options": ["Back in Black", "Thriller", "The Dark Side of the Moon", "The Bodyguard"],
+    "correctAnswer": "Thriller"
+  },
+  {
+    "questionText": "Quel pays a pour domaine internet de premier niveau '.ch' ?",
+    "options": ["Chine", "Chili", "Suisse", "Croatie"],
+    "correctAnswer": "Suisse"
+  },
+  {
+    "questionText": "Qui est l'architecte derrière la pyramide de verre du Louvre ?",
+    "options": ["Jean Nouvel", "Ieoh Ming Pei", "Renzo Piano", "Le Corbusier"],
+    "correctAnswer": "Ieoh Ming Pei"
+  },
+  {
+    "questionText": "Quel réseau social a été fondé par Mark Zuckerberg en 2004 ?",
+    "options": ["Twitter", "Instagram", "Facebook", "Snapchat"],
+    "correctAnswer": "Facebook"
+  },
+  {
+    "questionText": "Quelle est la distance exacte d'un marathon ?",
+    "options": ["40,195 km", "42 km", "42,195 km", "45 km"],
+    "correctAnswer": "42,195 km"
+  },
+  {
+    "questionText": "Comment appelle-t-on le mouvement de retrait de la mer avant un tsunami ?",
+    "options": ["Le mascaret", "Le reflux", "L'eustatisme", "Le marnage"],
+    "correctAnswer": "Le reflux"
+  },
+  {
+    "questionText": "Dans quel film de Quentin Tarantino peut-on voir la 'Danse de l'aiguille' entre Mia Wallace et Vincent Vega ?",
+    "options": ["Reservoir Dogs", "Pulp Fiction", "Kill Bill", "Django Unchained"],
+    "correctAnswer": "Pulp Fiction"
+  },
+  {
+    "questionText": "Quel est le plus grand État des États-Unis en termes de superficie ?",
+    "options": ["Texas", "Californie", "Alaska", "Montana"],
+    "correctAnswer": "Alaska"
+  },
+  {
+    "questionText": "Quel est le nom du système d'exploitation mobile développé par Google ?",
+    "options": ["iOS", "Android", "Symbian", "HarmonyOS"],
+    "correctAnswer": "Android"
+  },
+  {
+    "questionText": "Quelle est la capitale de l'Allemagne ?",
+    "options": ["Munich", "Francfort", "Hambourg", "Berlin"],
+    "correctAnswer": "Berlin"
+  },
+  {
+    "questionText": "Quel artiste est célèbre pour ses œuvres de 'Street Art' dont l'identité reste secrète ?",
+    "options": ["Basquiat", "Banksy", "JR", "Obey"],
+    "correctAnswer": "Banksy"
+  },
+  {
+    "questionText": "Quel est le nom de la monnaie virtuelle créée en 2009 par Satoshi Nakamoto ?",
+    "options": ["Ethereum", "Ripple", "Bitcoin", "Litecoin"],
+    "correctAnswer": "Bitcoin"
+  },
+  {
+    "questionText": "Dans quel sport s'illustre le Français Antoine Dupont ?",
+    "options": ["Football", "Rugby à XV", "Handball", "Tennis"],
+    "correctAnswer": "Rugby à XV"
+  },
+  {
+    "questionText": "Quel est le nom du robot dans le film 'Interstellar' ?",
+    "options": ["R2-D2", "TARS", "HAL 9000", "Wall-E"],
+    "correctAnswer": "TARS"
+  },
+  {
+    "questionText": "Quelle ville italienne est célèbre pour sa tour penchée ?",
+    "options": ["Florence", "Venise", "Pise", "Vérone"],
+    "correctAnswer": "Pise"
+  },
+  {
+    "questionText": "Quel groupe de rock a chanté 'Bohemian Rhapsody' ?",
+    "options": ["The Rolling Stones", "Led Zeppelin", "Queen", "Pink Floyd"],
+    "correctAnswer": "Queen"
+  },
+  {
+    "questionText": "Quel est le nom de la faille géologique située en Californie, redoutée pour ses séismes ?",
+    "options": ["Faille d'Alpide", "Faille de San Andreas", "Faille de Nojima", "Faille de la Reine Charlotte"],
+    "correctAnswer": "Faille de San Andreas"
+  },
+  {
+    "questionText": "Quelle entreprise a lancé l'iPhone en 2007 ?",
+    "options": ["Samsung", "Microsoft", "Apple", "Nokia"],
+    "correctAnswer": "Apple"
+  },
+  {
+    "questionText": "Quel est le nom du magicien blanc dans 'Le Seigneur des Anneaux' ?",
+    "options": ["Dumbledore", "Gandalf", "Merlin", "Saroumane"],
+    "correctAnswer": "Gandalf"
+  },
+  {
+    "questionText": "Combien de fuseaux horaires existe-t-il théoriquement sur Terre ?",
+    "options": ["12", "24", "36", "48"],
+    "correctAnswer": "24"
+  },
+  {
+    "questionText": "Quelle boisson est obtenue à partir de la fermentation du raisin ?",
+    "options": ["La bière", "Le cidre", "Le vin", "Le saké"],
+    "correctAnswer": "Le vin"
+  },
+  {
+    "questionText": "Quel est le nom de l'agence spatiale américaine ?",
+    "options": ["ESA", "Roscosmos", "NASA", "JAXA"],
+    "correctAnswer": "NASA"
+  },
+  {
+    "questionText": "Quel pays a quitté l'Union Européenne suite au 'Brexit' ?",
+    "options": ["Grèce", "Norvège", "Royaume-Uni", "Suisse"],
+    "correctAnswer": "Royaume-Uni"
+  },
+  {
+    "questionText": "Quel est le nom du fondateur de Microsoft ?",
+    "options": ["Steve Jobs", "Bill Gates", "Elon Musk", "Jeff Bezos"],
+    "correctAnswer": "Bill Gates"
+  },
+  {
+    "questionText": "Quel gaz à effet de serre est le plus souvent pointé du doigt pour le réchauffement climatique ?",
+    "options": ["Méthane", "Dioxyde de carbone", "Protoxyde d'azote", "Vapeur d'eau"],
+    "correctAnswer": "Dioxyde de carbone"
+  },
+  {
+    "questionText": "Dans quel pays sont nés les Jeux Olympiques antiques ?",
+    "options": ["Italie", "Égypte", "Grèce", "Turquie"],
+    "correctAnswer": "Grèce"
+  },
+  {
+    "questionText": "Quel est le nom du détroit qui sépare la France de l'Angleterre ?",
+    "options": ["Détroit de Gibraltar", "Pas-de-Calais", "Détroit de Magellan", "Détroit d'Ormuz"],
+    "correctAnswer": "Pas-de-Calais"
+  },
+  {
+    "questionText": "Comment appelle-t-on un polygone à 5 côtés ?",
+    "options": ["Hexagone", "Pentagone", "Octogone", "Heptagone"],
+    "correctAnswer": "Pentagone"
+  }
+]

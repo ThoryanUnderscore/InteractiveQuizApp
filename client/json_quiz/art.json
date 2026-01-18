@@ -1,0 +1,152 @@
+[
+  {
+    "questionText": "Qui a peint la célèbre fresque 'La Création d'Adam' sur le plafond de la chapelle Sixtine ?",
+    "options": ["Léonard de Vinci", "Michel-Ange", "Raphaël", "Donatello"],
+    "correctAnswer": "Michel-Ange"
+  },
+  {
+    "questionText": "Quel mouvement artistique du XIXe siècle se caractérise par l'étude de la lumière et des touches rapides ?",
+    "options": ["Le Cubisme", "Le Romantisme", "L'Impressionnisme", "Le Surréalisme"],
+    "correctAnswer": "L'Impressionnisme"
+  },
+  {
+    "questionText": "Dans quel musée parisien peut-on admirer 'La Joconde' ?",
+    "options": ["Musée d'Orsay", "Centre Pompidou", "Musée du Louvre", "Musée Rodin"],
+    "correctAnswer": "Musée du Louvre"
+  },
+  {
+    "questionText": "Quel artiste espagnol est le co-fondateur du Cubisme avec Georges Braque ?",
+    "options": ["Salvador Dalí", "Pablo Picasso", "Joan Miró", "Francisco de Goya"],
+    "correctAnswer": "Pablo Picasso"
+  },
+  {
+    "questionText": "Quelle est la technique consistant à peindre sur un mur avec un enduit frais ?",
+    "options": ["La gouache", "La fresque", "L'aquarelle", "La détrempe"],
+    "correctAnswer": "La fresque"
+  },
+  {
+    "questionText": "Quel peintre néerlandais est célèbre pour ses tournesols et s'être coupé l'oreille ?",
+    "options": ["Rembrandt", "Vermeer", "Vincent van Gogh", "Mondrian"],
+    "correctAnswer": "Vincent van Gogh"
+  },
+  {
+    "questionText": "Quel sculpteur est l'auteur de la célèbre statue 'Le Penseur' ?",
+    "options": ["Auguste Rodin", "Camille Claudel", "Alberto Giacometti", "Bernini"],
+    "correctAnswer": "Auguste Rodin"
+  },
+  {
+    "questionText": "Quel mouvement artistique du XXe siècle compte Salvador Dalí parmi ses chefs de file ?",
+    "options": ["Le Fauvisme", "Le Surréalisme", "Le Dadaïsme", "L'Expressionnisme"],
+    "correctAnswer": "Le Surréalisme"
+  },
+  {
+    "questionText": "Qui a peint 'La Jeune Fille à la perle' ?",
+    "options": ["Johannes Vermeer", "Rubens", "Van Dyck", "Frans Hals"],
+    "correctAnswer": "Johannes Vermeer"
+  },
+  {
+    "questionText": "Quel courant artistique utilise des images de la culture populaire (BD, publicité) ?",
+    "options": ["L'Art Nouveau", "Le Pop Art", "Le Minimalisme", "L'Art Déco"],
+    "correctAnswer": "Le Pop Art"
+  },
+  {
+    "questionText": "Comment appelle-t-on une œuvre composée de trois panneaux peints ?",
+    "options": ["Un diptyque", "Un triptyque", "Un polyptyque", "Une fresque"],
+    "correctAnswer": "Un triptyque"
+  },
+  {
+    "questionText": "Quel peintre français est le chef de file de l'Impressionnisme avec son tableau 'Impression, soleil levant' ?",
+    "options": ["Claude Monet", "Edgar Degas", "Paul Cézanne", "Auguste Renoir"],
+    "correctAnswer": "Claude Monet"
+  },
+  {
+    "questionText": "Dans quelle ville se trouve la célèbre statue du 'David' de Michel-Ange ?",
+    "options": ["Rome", "Milan", "Venise", "Florence"],
+    "correctAnswer": "Florence"
+  },
+  {
+    "questionText": "Quel architecte a conçu la pyramide de verre du Louvre ?",
+    "options": ["Le Corbusier", "Ieoh Ming Pei", "Jean Nouvel", "Gustave Eiffel"],
+    "correctAnswer": "Ieoh Ming Pei"
+  },
+  {
+    "questionText": "Quel peintre est célèbre pour ses dripping (projection de peinture) sur de grandes toiles ?",
+    "options": ["Andy Warhol", "Jackson Pollock", "Mark Rothko", "Edward Hopper"],
+    "correctAnswer": "Jackson Pollock"
+  },
+  {
+    "questionText": "Quelle est la principale caractéristique de la peinture à l'huile par rapport à la détrempe ?",
+    "options": ["Séchage rapide", "Séchage lent", "Utilisation d'eau", "Couleurs mates"],
+    "correctAnswer": "Séchage lent"
+  },
+  {
+    "questionText": "Qui a peint 'Guernica', œuvre dénonçant le bombardement de la ville durant la guerre d'Espagne ?",
+    "options": ["Picasso", "Dalí", "Miró", "Velázquez"],
+    "correctAnswer": "Picasso"
+  },
+  {
+    "questionText": "Quel artiste est connu pour ses portraits colorés de Marilyn Monroe ?",
+    "options": ["Roy Lichtenstein", "Andy Warhol", "Keith Haring", "Jean-Michel Basquiat"],
+    "correctAnswer": "Andy Warhol"
+  },
+  {
+    "questionText": "Quel style architectural médiéval se reconnaît à ses arcs brisés et ses vitraux ?",
+    "options": ["Le Roman", "Le Gothique", "Le Baroque", "Le Classique"],
+    "correctAnswer": "Le Gothique"
+  },
+  {
+    "questionText": "Qui a peint 'Le Cri' ?",
+    "options": ["Edvard Munch", "Gustav Klimt", "Egon Schiele", "Oskar Kokoschka"],
+    "correctAnswer": "Edvard Munch"
+  },
+  {
+    "questionText": "Quel peintre mexicain est célèbre pour ses autoportraits et son mariage avec Diego Rivera ?",
+    "options": ["Frida Kahlo", "Leonora Carrington", "Remedios Varo", "Maria Izquierdo"],
+    "correctAnswer": "Frida Kahlo"
+  },
+  {
+    "questionText": "Quel terme italien désigne le contraste marqué entre l'ombre et la lumière dans une peinture ?",
+    "options": ["Sfumato", "Chiaroscuro (Clair-obscur)", "Impasto", "Fresque"],
+    "correctAnswer": "Chiaroscuro (Clair-obscur)"
+  },
+  {
+    "questionText": "Qui est l'auteur de la célèbre sculpture 'La Vénus de Milo' ?",
+    "options": ["Inconnu", "Praxitèle", "Phidias", "Polyclète"],
+    "correctAnswer": "Inconnu"
+  },
+  {
+    "questionText": "Quel peintre de la Renaissance a réalisé 'La Naissance de Vénus' ?",
+    "options": ["Sandro Botticelli", "Le Titien", "Le Tintoret", "Véronèse"],
+    "correctAnswer": "Sandro Botticelli"
+  },
+  {
+    "questionText": "Quel mouvement artistique cherche à représenter des formes géométriques pures (carré noir sur fond blanc) ?",
+    "options": ["Le Suprématisme", "Le Futursime", "Le Réalisme", "Le Maniérisme"],
+    "correctAnswer": "Le Suprématisme"
+  },
+  {
+    "questionText": "Quel peintre impressionniste est célèbre pour ses danseuses ?",
+    "options": ["Edgar Degas", "Édouard Manet", "Camille Pissarro", "Gustave Caillebotte"],
+    "correctAnswer": "Edgar Degas"
+  },
+  {
+    "questionText": "Qui a sculpté la Statue de la Liberté (la structure interne étant d'Eiffel) ?",
+    "options": ["Frédéric Auguste Bartholdi", "Jean-Baptiste Carpeaux", "Antoine-Louis Barye", "Ernest Meissonier"],
+    "correctAnswer": "Frédéric Auguste Bartholdi"
+  },
+  {
+    "questionText": "Quel peintre baroque est célèbre pour ses scènes bibliques cruelles et son réalisme brutal ?",
+    "options": ["Le Caravage", "Le Bernin", "Velázquez", "Poussin"],
+    "correctAnswer": "Le Caravage"
+  },
+  {
+    "questionText": "Quel peintre autrichien a réalisé 'Le Baiser' ?",
+    "options": ["Gustav Klimt", "Otto Dix", "Max Ernst", "Francis Bacon"],
+    "correctAnswer": "Gustav Klimt"
+  },
+  {
+    "questionText": "Quel terme désigne l'art de la belle écriture ?",
+    "options": ["L'enluminure", "La calligraphie", "La gravure", "La lithographie"],
+    "correctAnswer": "La calligraphie"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "questionText": "Quel est le véritable nom de Gollum avant qu'il ne soit corrompu par l'Anneau ?",
+    "options": ["Déagol", "Sméagol", "Bandobras", "Tobold"],
+    "correctAnswer": "Sméagol"
+  },
+  {
+    "questionText": "Comment s'appelle l'épée de Bilbon (puis de Frodon) qui brille en bleu près des Orques ?",
+    "options": ["Dard", "Glamdring", "Orcrist", "Andúril"],
+    "correctAnswer": "Dard"
+  },
+  {
+    "questionText": "Qui est le créateur de l'Anneau Unique ?",
+    "options": ["Morgoth", "Sauron", "Saroumane", "Celebrimbor"],
+    "correctAnswer": "Sauron"
+  },
+  {
+    "questionText": "Quel est le nom de la créature géante qui garde le col de Cirith Ungol ?",
+    "options": ["Arachne", "Gwaihir", "Ungoliant", "Kamul"],
+    "correctAnswer": "Arachne"
+  },
+  {
+    "questionText": "De quel royaume Théoden est-il le roi ?",
+    "options": ["Le Gondor", "Le Rohan", "L'Arnor", "Le Dale"],
+    "correctAnswer": "Le Rohan"
+  },
+  {
+    "questionText": "Comment s'appelle le dragon qui occupe la Montagne Solitaire dans 'Le Hobbit' ?",
+    "options": ["Ancalagon", "Glaurung", "Smaug", "Scatha"],
+    "correctAnswer": "Smaug"
+  },
+  {
+    "questionText": "Quel est le nom de l'elfe qui accompagne la Communauté de l'Anneau ?",
+    "options": ["Elrond", "Thranduil", "Legolas", "Celeborn"],
+    "correctAnswer": "Legolas"
+  },
+  {
+    "questionText": "Quelle est la seule substance capable de détruire l'Anneau Unique ?",
+    "options": ["Le feu d'un dragon", "La lave de la Montagne du Destin", "Le marteau d'Aulë", "L'eau du miroir de Galadriel"],
+    "correctAnswer": "La lave de la Montagne du Destin"
+  },
+  {
+    "questionText": "Qui est le chef de la compagnie des nains dans 'Le Hobbit' ?",
+    "options": ["Balin", "Gimli", "Thorin Écu-de-Chêne", "Dwalin"],
+    "correctAnswer": "Thorin Écu-de-Chêne"
+  },
+  {
+    "questionText": "Comment s'appelle la capitale du Gondor ?",
+    "options": ["Osgiliath", "Edoras", "Minas Tirith", "Minas Morgul"],
+    "correctAnswer": "Minas Tirith"
+  },
+  {
+    "questionText": "Quel est le nom du magicien brun qui aime les animaux ?",
+    "options": ["Gandalf", "Saroumane", "Radagast", "Alatar"],
+    "correctAnswer": "Radagast"
+  },
+  {
+    "questionText": "Quelle est la relation entre Legolas et Thranduil ?",
+    "options": ["Frères", "Oncle et neveu", "Père et fils", "Amis"],
+    "correctAnswer": "Père et fils"
+  },
+  {
+    "questionText": "Qui coupe le doigt de Sauron et s'empare de l'Anneau lors de la dernière alliance ?",
+    "options": ["Elendil", "Isildur", "Anárion", "Aragorn"],
+    "correctAnswer": "Isildur"
+  },
+  {
+    "questionText": "Comment appelle-t-on les créatures marchantes qui ressemblent à des arbres ?",
+    "options": ["Les Huorns", "Les Ents", "Les Trolls de pierre", "Les Wargs"],
+    "correctAnswer": "Les Ents"
+  },
+  {
+    "questionText": "Quel est le nom du poney qui accompagne les Hobbits au début de leur voyage ?",
+    "options": ["Bill", "Gripoil", "Nivacrin", "Hasufel"],
+    "correctAnswer": "Bill"
+  },
+  {
+    "questionText": "Qui est le souverain de Fondcombe (Rivendell) ?",
+    "options": ["Galadriel", "Thranduil", "Elrond", "Círdan"],
+    "correctAnswer": "Elrond"
+  },
+  {
+    "questionText": "Quel métal très précieux et résistant est extrait des mines de la Moria ?",
+    "options": ["L'Adamant", "Le Mithril", "L'Or d'Erebor", "Le Fer d'Angmar"],
+    "correctAnswer": "Le Mithril"
+  },
+  {
+    "questionText": "Comment s'appelle le démon de feu qu'affronte Gandalf dans la Moria ?",
+    "options": ["Un Nazgûl", "Un Balrog", "Un Warg", "Un Uruk-hai"],
+    "correctAnswer": "Un Balrog"
+  },
+  {
+    "questionText": "Quel est le titre de l'œuvre écrite par Bilbon et complétée par Frodon ?",
+    "options": ["Le Silmarillion", "Le Livre Rouge de la Marche de l'Ouest", "Chants du Troisième Âge", "Histoire des Hobbits"],
+    "correctAnswer": "Le Livre Rouge de la Marche de l'Ouest"
+  },
+  {
+    "questionText": "Qui devient le roi du Royaume Unifié à la fin de la trilogie ?",
+    "options": ["Boromir", "Faramir", "Aragorn", "Denethor"],
+    "correctAnswer": "Aragorn"
+  },
+  {
+    "questionText": "Dans 'Le Hobbit', quel objet Bilbon vole-t-il dans le trésor de Smaug ?",
+    "options": ["Une épée", "L'Arkenstone", "Un coffre d'or", "Un heaume"],
+    "correctAnswer": "L'Arkenstone"
+  },
+  {
+    "questionText": "Comment s'appelle le cheval de Gandalf, le seigneur des chevaux ?",
+    "options": ["Gripoil", "Nivacrin", "Brèche-dent", "Asfaloth"],
+    "correctAnswer": "Gripoil"
+  },
+  {
+    "questionText": "Quel est l'autre nom de l'entité maléfique 'Le Nécromancien' ?",
+    "options": ["Saroumane", "Le Roi-Sorcier", "Sauron", "Azog"],
+    "correctAnswer": "Sauron"
+  },
+  {
+    "questionText": "Qui est le compagnon le plus fidèle de Frodon pendant tout son périple ?",
+    "options": ["Merry", "Pippin", "Sam Gamegi", "Gimli"],
+    "correctAnswer": "Sam Gamegi"
+  },
+  {
+    "questionText": "Comment s'appelle la tour de Saroumane à Isengard ?",
+    "options": ["Barad-dûr", "Orthanc", "Cirith Ungol", "Minas Morgul"],
+    "correctAnswer": "Orthanc"
+  },
+  {
+    "questionText": "Quelle est la race des neuf serviteurs de l'Anneau ?",
+    "options": ["Des spectres (Nazgûl)", "Des Orques", "Des Orientaux", "Des Gobelins"],
+    "correctAnswer": "Des spectres (Nazgûl)"
+  },
+  {
+    "questionText": "Dans 'Le Hobbit', comment s'appelle le changeur de peau qui peut devenir un ours ?",
+    "options": ["Bard", "Beorn", "Dain", "Radagast"],
+    "correctAnswer": "Beorn"
+  },
+  {
+    "questionText": "Quel est l'ingrédient principal de la nourriture de voyage des Elfes (Lembas) ?",
+    "options": ["Miel", "Farine de maïs", "C'est un secret elfique", "Baies sauvages"],
+    "correctAnswer": "C'est un secret elfique"
+  },
+  {
+    "questionText": "Comment s'appelle la forêt où vivent les Ents ?",
+    "options": ["La Forêt Noire", "La Vieille Forêt", "Fangorn", "Lothlórien"],
+    "correctAnswer": "Fangorn"
+  },
+  {
+    "questionText": "Qui tue le Roi-Sorcier d'Angmar lors de la bataille des Champs du Pelennor ?",
+    "options": ["Aragorn", "Théoden", "Éowyn", "Merry"],
+    "correctAnswer": "Éowyn"
+  }
+]

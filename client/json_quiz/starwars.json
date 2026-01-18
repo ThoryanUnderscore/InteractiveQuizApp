@@ -1,0 +1,152 @@
+[
+  {
+    "questionText": "Dans l'Épisode I, quel est le nom du monde natal de Dark Maul ?",
+    "options": ["Dathomir", "Iridonia", "Tatooine", "Mustafar"],
+    "correctAnswer": "Dathomir"
+  },
+  {
+    "questionText": "Dans Rogue One, quel est le nom de l'archive impériale sur Scarif ?",
+    "options": ["Citadelle", "Base Alpha", "Station Eadu", "Tour de Coruscant"],
+    "correctAnswer": "Citadelle"
+  },
+  {
+    "questionText": "Dans The Mandalorian, quel est le véritable nom du 'Client' ?",
+    "options": ["Il n'est jamais nommé", "Moff Gideon", "Boff Valian", "Valin Hess"],
+    "correctAnswer": "Il n'est jamais nommé"
+  },
+  {
+    "questionText": "Dans The Clone Wars, qui est la Padawan d'Anakin Skywalker ?",
+    "options": ["Ahsoka Tano", "Barriss Offee", "Asajj Ventress", "Shaak Ti"],
+    "correctAnswer": "Ahsoka Tano"
+  },
+  {
+    "questionText": "Dans Star Wars Rebels, comment s'appelle le vaisseau de l'équipage ?",
+    "options": ["Ghost", "Phantom", "Falcon", "Home One"],
+    "correctAnswer": "Ghost"
+  },
+  {
+    "questionText": "Qui tue l'Empereur Palpatine dans l'Épisode VI ?",
+    "options": ["Dark Vader", "Luke Skywalker", "Lando Calrissian", "Mace Windu"],
+    "correctAnswer": "Dark Vader"
+  },
+  {
+    "questionText": "Quel est le nom de code du projet de l'Étoile de la Mort (donné par Galen Erso) ?",
+    "options": ["Stardust", "Black Star", "Sky-Killer", "Death-Ray"],
+    "correctAnswer": "Stardust"
+  },
+  {
+    "questionText": "De quel métal est faite l'armure du Mandalorien ?",
+    "options": ["Beskar", "Duracier", "Carbonite", "Chromium"],
+    "correctAnswer": "Beskar"
+  },
+  {
+    "questionText": "Quelle est l'unité de clones dirigée par le Capitaine Rex ?",
+    "options": ["501ème Légion", "212ème Bataillon", "Wolfpack", "104ème Bataillon"],
+    "correctAnswer": "501ème Légion"
+  },
+  {
+    "questionText": "Sur quelle planète se déroule le duel final de l'Épisode III ?",
+    "options": ["Mustafar", "Utapau", "Geonosis", "Kashyyyk"],
+    "correctAnswer": "Mustafar"
+  },
+  {
+    "questionText": "Dans Rebels, quel Inquisiteur est l'ennemi de la saison 1 ?",
+    "options": ["Le Grand Inquisiteur", "La Septième Sœur", "Le Huitième Frère", "Thrawn"],
+    "correctAnswer": "Le Grand Inquisiteur"
+  },
+  {
+    "questionText": "Quel est le numéro du bloc de détention de Leia dans l'Épisode IV ?",
+    "options": ["AA-23", "TK-421", "1138", "94"],
+    "correctAnswer": "AA-23"
+  },
+  {
+    "questionText": "Dans The Mandalorian, quel est le nom de l'espèce de Grogu ?",
+    "options": ["Espèce non nommée", "Lannik", "Yodéen", "Gremlyn"],
+    "correctAnswer": "Espèce non nommée"
+  },
+  {
+    "questionText": "Comment s'appelle le royaume mystique des 'Dieux' de la Force dans Clone Wars ?",
+    "options": ["Mortis", "Lothal", "Exegol", "Dagobah"],
+    "correctAnswer": "Mortis"
+  },
+  {
+    "questionText": "Qui est le commanditaire officiel de l'armée des clones sur Kamino ?",
+    "options": ["Sifo-Dyas", "Comte Dooku", "Palpatine", "Jango Fett"],
+    "correctAnswer": "Sifo-Dyas"
+  },
+  {
+    "questionText": "Dans Rogue One, qui est le pilote déserteur ?",
+    "options": ["Bodhi Rook", "Cassian Andor", "Chirrut Îmwe", "K-2SO"],
+    "correctAnswer": "Bodhi Rook"
+  },
+  {
+    "questionText": "Quelle est la planète d'origine d'Ezra Bridger ?",
+    "options": ["Lothal", "Garel", "Alderaan", "Ryloth"],
+    "correctAnswer": "Lothal"
+  },
+  {
+    "questionText": "Dans l'Épisode V, que dit Vader juste avant 'je suis ton père' ?",
+    "options": ["Non", "Luke", "C'est vrai", "Obi-Wan t'a menti"],
+    "correctAnswer": "Non"
+  },
+  {
+    "questionText": "Quel groupe sauve Din Djarin enfant ?",
+    "options": ["La Death Watch", "Les Jedi", "Bo-Katan", "Boba Fett"],
+    "correctAnswer": "La Death Watch"
+  },
+  {
+    "questionText": "Qui est le maître de l'Inquisiteur dans Rebels ?",
+    "options": ["Dark Vader", "Palpatine", "Dooku", "Maul"],
+    "correctAnswer": "Dark Vader"
+  },
+  {
+    "questionText": "Comment s'appelle la lune forestière dans l'Épisode VI ?",
+    "options": ["Endor", "Yavin 4", "Hoth", "Sullust"],
+    "correctAnswer": "Endor"
+  },
+  {
+    "questionText": "Quel est le matricule du droïde de Rogue One ?",
+    "options": ["K-2SO", "C-3PO", "IG-11", "L3-37"],
+    "correctAnswer": "K-2SO"
+  },
+  {
+    "questionText": "Lequel de ces rebelles est un Lasat ?",
+    "options": ["Zeb Orrelios", "Kanan Jarrus", "Chopper", "Sabine Wren"],
+    "correctAnswer": "Zeb Orrelios"
+  },
+  {
+    "questionText": "Qui tire le premier dans la version originale de 1977 ?",
+    "options": ["Han Solo", "Greedo", "Les deux", "Personne"],
+    "correctAnswer": "Han Solo"
+  },
+  {
+    "questionText": "Qui possède le Sabre Noir au début de The Mandalorian ?",
+    "options": ["Moff Gideon", "Bo-Katan", "Pre Vizsla", "Sabine Wren"],
+    "correctAnswer": "Moff Gideon"
+  },
+  {
+    "questionText": "Comment s'appelle la sœur de Saw Gerrera ?",
+    "options": ["Steela", "Hera", "Satine", "Bo-Katan"],
+    "correctAnswer": "Steela"
+  },
+  {
+    "questionText": "Quelle est la planète natale de Chewbacca ?",
+    "options": ["Kashyyyk", "Endor", "Trandosha", "Jakku"],
+    "correctAnswer": "Kashyyyk"
+  },
+  {
+    "questionText": "Quel personnage de Clone Wars apparaît en live-action dans Rogue One ?",
+    "options": ["Saw Gerrera", "Rex", "Ahsoka", "Cad Bane"],
+    "correctAnswer": "Saw Gerrera"
+  },
+  {
+    "questionText": "Quel est le nom de code d'Ahsoka dans Rebels ?",
+    "options": ["Fulcrum", "Phoenix", "Spectre 7", "The Padawan"],
+    "correctAnswer": "Fulcrum"
+  },
+  {
+    "questionText": "Combien de Jedi accompagnent Mace Windu pour arrêter Palpatine ?",
+    "options": ["3", "2", "4", "5"],
+    "correctAnswer": "3"
+  }
+]

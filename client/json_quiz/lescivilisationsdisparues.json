@@ -1,0 +1,152 @@
+[
+  {
+    "questionText": "Quelle civilisation a construit la cité du Machu Picchu au Pérou ?",
+    "options": ["Les Mayas", "Les Aztèques", "Les Incas", "Les Toltèques"],
+    "correctAnswer": "Les Incas"
+  },
+  {
+    "questionText": "Quel peuple antique a inventé l'écriture cunéiforme en Mésopotamie ?",
+    "options": ["Les Sumériens", "Les Égyptiens", "Les Phéniciens", "Les Hittites"],
+    "correctAnswer": "Les Sumériens"
+  },
+  {
+    "questionText": "Quelle cité taillée dans la roche était la capitale des Nabatéens ?",
+    "options": ["Babylone", "Pétra", "Persépolis", "Palmyre"],
+    "correctAnswer": "Pétra"
+  },
+  {
+    "questionText": "Quelle civilisation vivait sur l'île de Crète et a construit le palais de Knossos ?",
+    "options": ["Les Mycéniens", "Les Minoens", "Les Étrusques", "Les Phéniciens"],
+    "correctAnswer": "Les Minoens"
+  },
+  {
+    "questionText": "Quelle est la seule des Sept Merveilles du monde antique encore debout ?",
+    "options": ["Le Phare d'Alexandrie", "Le Colosse de Rhodes", "La Grande Pyramide de Gizeh", "Les Jardins de Babylone"],
+    "correctAnswer": "La Grande Pyramide de Gizeh"
+  },
+  {
+    "questionText": "Quelle civilisation d'Amérique centrale utilisait un calendrier complexe finissant en 2012 ?",
+    "options": ["Les Mayas", "Les Incas", "Les Olmèques", "Les Zapotèques"],
+    "correctAnswer": "Les Mayas"
+  },
+  {
+    "questionText": "Quelle cité-état d'Afrique du Nord fut la grande rivale de Rome pendant les guerres puniques ?",
+    "options": ["Alexandrie", "Carthage", "Thèbes", "Cyrène"],
+    "correctAnswer": "Carthage"
+  },
+  {
+    "questionText": "Quel peuple a fondé la civilisation de la vallée de l'Indus (Harappa et Mohenjo-daro) ?",
+    "options": ["Les Aryens", "Les Dravidiens", "Les Perses", "Les Mauryas"],
+    "correctAnswer": "Les Dravidiens"
+  },
+  {
+    "questionText": "Quelle civilisation est célèbre pour ses têtes colossales sculptées dans la pierre au Mexique ?",
+    "options": ["Les Aztèques", "Les Olmèques", "Les Incas", "Les Mayas"],
+    "correctAnswer": "Les Olmèques"
+  },
+  {
+    "questionText": "Comment s'appelait la capitale de l'Empire Aztèque, aujourd'hui Mexico ?",
+    "options": ["Teotihuacán", "Tenochtitlán", "Tikal", "Chichén Itzá"],
+    "correctAnswer": "Tenochtitlán"
+  },
+  {
+    "questionText": "Quel empire dominait l'actuelle Turquie avant d'être vaincu par les 'Peuples de la Mer' ?",
+    "options": ["L'Empire Hittite", "L'Empire Parthe", "L'Empire Sassanide", "L'Empire Lydien"],
+    "correctAnswer": "L'Empire Hittite"
+  },
+  {
+    "questionText": "Quelle civilisation a érigé les statues géantes nommées Moaï sur l'île de Pâques ?",
+    "options": ["Les Maoris", "Les Rapa Nui", "Les Tahitiens", "Les Samoans"],
+    "correctAnswer": "Les Rapa Nui"
+  },
+  {
+    "questionText": "Quel peuple d'Italie centrale a fortement influencé la culture romaine naissante ?",
+    "options": ["Les Étrusques", "Les Samnites", "Les Sabins", "Les Gaulois"],
+    "correctAnswer": "Les Étrusques"
+  },
+  {
+    "questionText": "Quelle cité cambodgienne était le centre de l'Empire Khmer ?",
+    "options": ["Angkor", "Bagan", "Ayutthaya", "Luang Prabang"],
+    "correctAnswer": "Angkor"
+  },
+  {
+    "questionText": "Quelle civilisation a inventé le premier alphabet phonétique ?",
+    "options": ["Les Grecs", "Les Phéniciens", "Les Romains", "Les Araméens"],
+    "correctAnswer": "Les Phéniciens"
+  },
+  {
+    "questionText": "Dans quel pays actuel se trouvait la civilisation d'Aksum ?",
+    "options": ["Égypte", "Éthiopie", "Mali", "Zimbabwe"],
+    "correctAnswer": "Éthiopie"
+  },
+  {
+    "questionText": "Quel peuple a construit les mystérieux géoglyphes visibles seulement du ciel au Pérou ?",
+    "options": ["Les Nazcas", "Les Chavins", "Les Mochicas", "Les Chimús"],
+    "correctAnswer": "Les Nazcas"
+  },
+  {
+    "questionText": "Comment s'appelait le premier empereur qui a unifié la Chine et construit l'armée de terre cuite ?",
+    "options": ["Qin Shi Huang", "Han Wudi", "Kubilaï Khan", "Sun Yat-sen"],
+    "correctAnswer": "Qin Shi Huang"
+  },
+  {
+    "questionText": "Quelle civilisation mésopotamienne est célèbre pour le Code de lois d'Hammourabi ?",
+    "options": ["Les Assyriens", "Les Babyloniens", "Les Akkadiens", "Les Perses"],
+    "correctAnswer": "Les Babyloniens"
+  },
+  {
+    "questionText": "Quel royaume d'Afrique de l'Ouest était surnommé 'le pays de l'or' au Moyen Âge ?",
+    "options": ["L'Empire du Ghana", "L'Empire Songhaï", "L'Empire du Mali", "Le Royaume du Bénin"],
+    "correctAnswer": "L'Empire du Ghana"
+  },
+  {
+    "questionText": "Quelle cité grecque fut détruite par l'éruption du volcan Théra (Santorin) ?",
+    "options": ["Akrotiri", "Mycènes", "Cnossos", "Pylos"],
+    "correctAnswer": "Akrotiri"
+  },
+  {
+    "questionText": "Quel peuple dominait le nord de la Mésopotamie avec une armée très puissante et cruelle ?",
+    "options": ["Les Assyriens", "Les Chaldéens", "Les Elamites", "Les Mèdes"],
+    "correctAnswer": "Les Assyriens"
+  },
+  {
+    "questionText": "Quelle civilisation occupait l'actuel Pakistan et utilisait des briques standardisées ?",
+    "options": ["L'Indus", "Le Gandhara", "Les Kushans", "Les Gupta"],
+    "correctAnswer": "L'Indus"
+  },
+  {
+    "questionText": "Comment se nommait la capitale de l'Empire de Cyrus le Grand ?",
+    "options": ["Suse", "Pasargades", "Persépolis", "Ecbatane"],
+    "correctAnswer": "Pasargades"
+  },
+  {
+    "questionText": "Quelle civilisation africaine a construit de grandes enceintes de pierre sans mortier ?",
+    "options": ["Le Grand Zimbabwe", "L'Empire du Kanem", "Le Royaume de Koush", "Les Dogons"],
+    "correctAnswer": "Le Grand Zimbabwe"
+  },
+  {
+    "questionText": "Quel peuple germanique a saccagé Rome en 410, marquant le début de la fin de l'Empire ?",
+    "options": ["Les Wisigoths", "Les Vandales", "Les Ostrogoths", "Les Francs"],
+    "correctAnswer": "Les Wisigoths"
+  },
+  {
+    "questionText": "Quelle civilisation du Soudan actuel a construit plus de pyramides que l'Égypte ?",
+    "options": ["Le Royaume de Koush (Méroé)", "Le Royaume d'Aksoum", "Les Nubiens du Nord", "Les Garamantes"],
+    "correctAnswer": "Le Royaume de Koush (Méroé)"
+  },
+  {
+    "questionText": "Quelle cité mystérieuse d'Asie centrale est associée à la Route de la Soie ?",
+    "options": ["Samarcande", "Merv", "Boukhara", "Taxila"],
+    "correctAnswer": "Merv"
+  },
+  {
+    "questionText": "Quel peuple précolombien a précédé les Incas dans la région du lac Titicaca ?",
+    "options": ["Tiwanaku", "Wari", "Moche", "Paracas"],
+    "correctAnswer": "Tiwanaku"
+  },
+  {
+    "questionText": "Quelle civilisation a disparu après l'arrivée d'Hernán Cortés en 1519 ?",
+    "options": ["Les Aztèques", "Les Incas", "Les Mayas", "Les Chibchas"],
+    "correctAnswer": "Les Aztèques"
+  }
+]

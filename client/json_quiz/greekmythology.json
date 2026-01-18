@@ -1,0 +1,152 @@
+[
+  {
+    "questionText": "Qui est le roi des dieux olympiens et le maître de la foudre ?",
+    "options": ["Hades", "Poseidon", "Zeus", "Ares"],
+    "correctAnswer": "Zeus"
+  },
+  {
+    "questionText": "Quel héros a tué la Gorgone Méduse ?",
+    "options": ["Thésée", "Persée", "Hercule", "Achille"],
+    "correctAnswer": "Persée"
+  },
+  {
+    "questionText": "Quelle déesse est née de l'écume de mer ?",
+    "options": ["Athéna", "Héra", "Aphrodite", "Artémis"],
+    "correctAnswer": "Aphrodite"
+  },
+  {
+    "questionText": "Combien de travaux Hercule a-t-il dû accomplir pour se racheter ?",
+    "options": ["10", "12", "7", "15"],
+    "correctAnswer": "12"
+  },
+  {
+    "questionText": "Quel titan a volé le feu aux dieux pour le donner aux humains ?",
+    "options": ["Atlas", "Prométhée", "Épiméthée", "Cronos"],
+    "correctAnswer": "Prométhée"
+  },
+  {
+    "questionText": "Qui est le dieu de la guerre brutale ?",
+    "options": ["Héphaïstos", "Arès", "Apollon", "Hermès"],
+    "correctAnswer": "Arès"
+  },
+  {
+    "questionText": "Comment s'appelle le chien à trois têtes qui garde les Enfers ?",
+    "options": ["Cerbère", "Hydre", "Chimère", "Orthos"],
+    "correctAnswer": "Cerbère"
+  },
+  {
+    "questionText": "Quelle cité Athéna et Poséidon se sont-ils disputée ?",
+    "options": ["Sparte", "Thèbes", "Athènes", "Corinthe"],
+    "correctAnswer": "Athènes"
+  },
+  {
+    "questionText": "Qui est le messager des dieux avec des sandales ailées ?",
+    "options": ["Hermès", "Éros", "Hypnos", "Hélios"],
+    "correctAnswer": "Hermès"
+  },
+  {
+    "questionText": "Quel héros a vaincu le Minotaure dans le labyrinthe ?",
+    "options": ["Icare", "Thésée", "Jason", "Bellerophon"],
+    "correctAnswer": "Thésée"
+  },
+  {
+    "questionText": "Qui est la déesse de la chasse et de la lune ?",
+    "options": ["Déméter", "Hestia", "Artémis", "Séléné"],
+    "correctAnswer": "Artémis"
+  },
+  {
+    "questionText": "Quel est le nom du batelier qui fait traverser le Styx aux morts ?",
+    "options": ["Thanatos", "Charon", "Minos", "Éaque"],
+    "correctAnswer": "Charon"
+  },
+  {
+    "questionText": "De quel dieu provient le talon d'Achille, sa seule faiblesse ?",
+    "options": ["Apollon", "Thétis", "Zeus", "Héphaïstos"],
+    "correctAnswer": "Thétis"
+  },
+  {
+    "questionText": "Quel titan est condamné à porter la voûte céleste ?",
+    "options": ["Atlas", "Océan", "Hypérion", "Hélios"],
+    "correctAnswer": "Atlas"
+  },
+  {
+    "questionText": "Qui a ouvert la boîte libérant tous les maux de l'humanité ?",
+    "options": ["Hélène", "Pandore", "Médée", "Circé"],
+    "correctAnswer": "Pandore"
+  },
+  {
+    "questionText": "Quel dieu est le forgeron de l'Olympe ?",
+    "options": ["Dionysos", "Héphaïstos", "Hadès", "Pan"],
+    "correctAnswer": "Héphaïstos"
+  },
+  {
+    "questionText": "Comment s'appelle le cheval ailé né du sang de Méduse ?",
+    "options": ["Pégase", "Bucéphale", "Arion", "Xanthe"],
+    "correctAnswer": "Pégase"
+  },
+  {
+    "questionText": "Qui est le père de Zeus qu'il a dû détrôner ?",
+    "options": ["Ouranos", "Cronos", "Japet", "Pontos"],
+    "correctAnswer": "Cronos"
+  },
+  {
+    "questionText": "Quelle créature a le corps d'un lion, d'une chèvre et d'un serpent ?",
+    "options": ["Le Sphinx", "La Chimère", "La Mantichore", "Le Basilic"],
+    "correctAnswer": "La Chimère"
+  },
+  {
+    "questionText": "Qui a conduit les Argonautes pour trouver la Toison d'Or ?",
+    "options": ["Ulysse", "Jason", "Castor", "Pollux"],
+    "correctAnswer": "Jason"
+  },
+  {
+    "questionText": "Quel dieu est associé au vin et au théâtre ?",
+    "options": ["Dionysos", "Pan", "Hermès", "Apollon"],
+    "correctAnswer": "Dionysos"
+  },
+  {
+    "questionText": "Quelle déesse est l'épouse de Zeus et protectrice du mariage ?",
+    "options": ["Héra", "Déméter", "Perséphone", "Léto"],
+    "correctAnswer": "Héra"
+  },
+  {
+    "questionText": "Qui est le dieu du soleil, de la musique et de la poésie ?",
+    "options": ["Apollon", "Hélios", "Faune", "Zéphir"],
+    "correctAnswer": "Apollon"
+  },
+  {
+    "questionText": "Quel monstre possède neuf têtes qui repoussent quand on les coupe ?",
+    "options": ["La Gorgone", "L'Hydre de Lerne", "Scylla", "Charybde"],
+    "correctAnswer": "L'Hydre de Lerne"
+  },
+  {
+    "questionText": "Qui a volé Perséphone pour en faire la reine des Enfers ?",
+    "options": ["Hadès", "Ploutos", "Thanatos", "Hermès"],
+    "correctAnswer": "Hadès"
+  },
+  {
+    "questionText": "Quel héros s'est brûlé les ailes en volant trop près du soleil ?",
+    "options": ["Dédale", "Icare", "Phaéton", "Bellérophon"],
+    "correctAnswer": "Icare"
+  },
+  {
+    "questionText": "Qui est la déesse de l'agriculture et des moissons ?",
+    "options": ["Déméter", "Gaïa", "Rhéa", "Chloris"],
+    "correctAnswer": "Déméter"
+  },
+  {
+    "questionText": "Quel est le nom de l'énigme posée par le Sphinx à Œdipe ?",
+    "options": ["L'énigme de l'homme", "L'énigme du temps", "L'énigme du soleil", "L'énigme de la vie"],
+    "correctAnswer": "L'énigme de l'homme"
+  },
+  {
+    "questionText": "Qui a tué Hector lors de la guerre de Troie ?",
+    "options": ["Agamemnon", "Ménélas", "Achille", "Patrocle"],
+    "correctAnswer": "Achille"
+  },
+  {
+    "questionText": "Quel objet magique permet à Persée de devenir invisible ?",
+    "options": ["Le casque d'Hadès", "Le bouclier d'Athéna", "Les sandales d'Hermès", "La cape de Zeus"],
+    "correctAnswer": "Le casque d'Hadès"
+  }
+]

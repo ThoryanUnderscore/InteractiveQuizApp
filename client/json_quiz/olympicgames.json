@@ -1,0 +1,152 @@
+[
+  {
+    "questionText": "Dans quelle ville se sont déroulés les premiers JO de l'ère moderne en 1896 ?",
+    "options": ["Paris", "Athènes", "Rome", "Londres"],
+    "correctAnswer": "Athènes"
+  },
+  {
+    "questionText": "Qui est le créateur des Jeux Olympiques modernes ?",
+    "options": ["Pierre de Coubertin", "Jules Rimet", "Henri de Baillet-Latour", "Thomas Bach"],
+    "correctAnswer": "Pierre de Coubertin"
+  },
+  {
+    "questionText": "Quel athlète détient le record du nombre total de médailles olympiques (28) ?",
+    "options": ["Usain Bolt", "Michael Phelps", "Carl Lewis", "Larissa Latynina"],
+    "correctAnswer": "Michael Phelps"
+  },
+  {
+    "questionText": "Que représentent les cinq anneaux du drapeau olympique ?",
+    "options": ["Les 5 dieux grecs", "Les 5 continents", "Les 5 premières nations", "Les 5 valeurs du sport"],
+    "correctAnswer": "Les 5 continents"
+  },
+  {
+    "questionText": "Dans quelle ville ont eu lieu les premiers Jeux Olympiques d'hiver en 1924 ?",
+    "options": ["Grenoble", "Saint-Moritz", "Chamonix", "Oslo"],
+    "correctAnswer": "Chamonix"
+  },
+  {
+    "questionText": "Quelle ville a accueilli les JO d'été trois fois (1908, 1948, 2012) ?",
+    "options": ["Paris", "Los Angeles", "Londres", "Tokyo"],
+    "correctAnswer": "Londres"
+  },
+  {
+    "questionText": "Quel sprinteur jamaïcain a réalisé le doublé 100m/200m sur trois olympiades consécutives ?",
+    "options": ["Tyson Gay", "Yohan Blake", "Asafa Powell", "Usain Bolt"],
+    "correctAnswer": "Usain Bolt"
+  },
+  {
+    "questionText": "Quelle gymnaste a obtenu le premier '10 parfait' de l'histoire des JO en 1976 ?",
+    "options": ["Simone Biles", "Nadia Comăneci", "Olga Korbut", "Svetlana Khorkina"],
+    "correctAnswer": "Nadia Comăneci"
+  },
+  {
+    "questionText": "En quelle année les femmes ont-elles été autorisées à participer aux JO pour la première fois ?",
+    "options": ["1896", "1900", "1920", "1936"],
+    "correctAnswer": "1900"
+  },
+  {
+    "questionText": "Quelle est la devise olympique officielle (en latin) ?",
+    "options": ["Veni Vidi Vici", "Citius, Altius, Fortius", "Mens sana in corpore sano", "Ad vitam aeternam"],
+    "correctAnswer": "Citius, Altius, Fortius"
+  },
+  {
+    "questionText": "Quel pays défile toujours en premier lors de la cérémonie d'ouverture ?",
+    "options": ["Le pays hôte", "La Grèce", "Les États-Unis", "La France"],
+    "correctAnswer": "La Grèce"
+  },
+  {
+    "questionText": "Combien de temps dure normalement une olympiade ?",
+    "options": ["2 ans", "4 ans", "5 ans", "1 an"],
+    "correctAnswer": "4 ans"
+  },
+  {
+    "questionText": "Quel marathonien a couru et gagné pieds nus à Rome en 1960 ?",
+    "options": ["Abebe Bikila", "Eliud Kipchoge", "Haile Gebrselassie", "Kenenisa Bekele"],
+    "correctAnswer": "Abebe Bikila"
+  },
+  {
+    "questionText": "Quelle ville a accueilli les 'Jeux du Centenaire' en 1996 ?",
+    "options": ["Athènes", "Atlanta", "Sydney", "Barcelone"],
+    "correctAnswer": "Atlanta"
+  },
+  {
+    "questionText": "Dans quel sport s'illustre la légende française Teddy Riner ?",
+    "options": ["Escrime", "Natation", "Judo", "Athlétisme"],
+    "correctAnswer": "Judo"
+  },
+  {
+    "questionText": "Quel est le seul pays à avoir remporté au moins une médaille d'or à chaque édition des JO d'été ?",
+    "options": ["États-Unis", "Chine", "Grande-Bretagne", "Australie"],
+    "correctAnswer": "Grande-Bretagne"
+  },
+  {
+    "questionText": "Quelle ville accueillera les Jeux Olympiques d'été en 2028 ?",
+    "options": ["Brisbane", "Paris", "Los Angeles", "Madrid"],
+    "correctAnswer": "Los Angeles"
+  },
+  {
+    "questionText": "Sous quel nom concourent les athlètes dont le pays n'est pas reconnu par le CIO ?",
+    "options": ["Athlètes Neutres", "Équipe des Réfugiés", "Athlètes Indépendants", "Équipe Blanche"],
+    "correctAnswer": "Athlètes Indépendants"
+  },
+  {
+    "questionText": "En quelle année ont eu lieu les Jeux Olympiques de Berlin marqués par Jesse Owens ?",
+    "options": ["1924", "1932", "1936", "1940"],
+    "correctAnswer": "1936"
+  },
+  {
+    "questionText": "Quel sport a fait son apparition pour la première fois aux JO de Tokyo 2020 ?",
+    "options": ["Skateboard", "Rugby à 7", "Golf", "Trampoline"],
+    "correctAnswer": "Skateboard"
+  },
+  {
+    "questionText": "Quelle est la distance officielle d'un marathon olympique ?",
+    "options": ["40 km", "42,195 km", "41,5 km", "42 km"],
+    "correctAnswer": "42,195 km"
+  },
+  {
+    "questionText": "Comment appelle-t-on la période de trêve respectée durant les JO antiques ?",
+    "options": ["L'Ekecheiria", "La Pax Romana", "Le Jubilé", "L'Olympias"],
+    "correctAnswer": "L'Ekecheiria"
+  },
+  {
+    "questionText": "Quelle ville a accueilli les premiers JO d'été en Asie (1964) ?",
+    "options": ["Pékin", "Séoul", "Tokyo", "Bangkok"],
+    "correctAnswer": "Tokyo"
+  },
+  {
+    "questionText": "Qui allume traditionnellement la flamme olympique à Olympie ?",
+    "options": ["Le président du CIO", "Une grande prêtresse", "Le premier relayeur", "Le roi de Grèce"],
+    "correctAnswer": "Une grande prêtresse"
+  },
+  {
+    "questionText": "Quel nageur américain a remporté 7 médailles d'or en une seule édition (Munich 1972) ?",
+    "options": ["Mark Spitz", "Matt Biondi", "Ian Thorpe", "Caeleb Dressel"],
+    "correctAnswer": "Mark Spitz"
+  },
+  {
+    "questionText": "En quelle année les JO d'hiver et d'été ont-ils été séparés (pas la même année) ?",
+    "options": ["1988", "1992", "1994", "2000"],
+    "correctAnswer": "1994"
+  },
+  {
+    "questionText": "Quel métal composait principalement la médaille d'or jusqu'en 1912 ?",
+    "options": ["L'or pur", "L'argent doré", "Le bronze", "Le cuivre"],
+    "correctAnswer": "L'or pur"
+  },
+  {
+    "questionText": "Quel pays a dominé le tableau des médailles aux JO de Pékin en 2008 ?",
+    "options": ["États-Unis", "Chine", "Russie", "Allemagne"],
+    "correctAnswer": "Chine"
+  },
+  {
+    "questionText": "Quelle épreuve de natation est la plus courte aux JO ?",
+    "options": ["25m nage libre", "50m nage libre", "100m nage libre", "50m brasse"],
+    "correctAnswer": "50m nage libre"
+  },
+  {
+    "questionText": "Quelle ville a accueilli les premiers Jeux Paralympiques en 1960 ?",
+    "options": ["Londres", "Rome", "Tel Aviv", "Tokyo"],
+    "correctAnswer": "Rome"
+  }
+]

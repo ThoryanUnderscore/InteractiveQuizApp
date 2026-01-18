@@ -1,0 +1,152 @@
+[
+  {
+    "questionText": "Quel est le nom du premier seigneur d'Elden ?",
+    "options": ["Radagon", "Godfrey", "Marika", "Maliketh"],
+    "correctAnswer": "Godfrey"
+  },
+  {
+    "questionText": "Comment s'appelle la monture spectrale que nous confie Melina ?",
+    "options": ["Torrent", "Torrentiel", "Tempête", "Zéphir"],
+    "correctAnswer": "Torrent"
+  },
+  {
+    "questionText": "Quelle demi-déesse est connue pour n'avoir jamais connu la défaite ?",
+    "options": ["Ranni", "Malenia", "Rennala", "Marika"],
+    "correctAnswer": "Malenia"
+  },
+  {
+    "questionText": "Quel est le nom de la zone volcanique où réside le serpent Rykard ?",
+    "options": ["Caelid", "Manoir du Volcan", "Nokron", "Leyndell"],
+    "correctAnswer": "Manoir du Volcan"
+  },
+  {
+    "questionText": "Quel objet permet d'invoquer des cendres d'esprits ?",
+    "options": ["Cloche mande-esprit", "Larme de vie", "Doigt crochu", "Sifflet de destrier"],
+    "correctAnswer": "Cloche mande-esprit"
+  },
+  {
+    "questionText": "Qui est le forgeron prisonnier de la Table Ronde ?",
+    "options": ["Hewg", "Iji", "Andre", "Rogier"],
+    "correctAnswer": "Hewg"
+  },
+  {
+    "questionText": "Quelle altération d'état est la signature des zones de Caelid ?",
+    "options": ["Poison", "Putréfaction écarlate", "Saignement", "Congélation"],
+    "correctAnswer": "Putréfaction écarlate"
+  },
+  {
+    "questionText": "Comment s'appelle le festival organisé en l'honneur du général Radahn ?",
+    "options": ["Festival de la Lune", "Festival du Combat", "Festival de Radahn", "Festival de Caelid"],
+    "correctAnswer": "Festival de Radahn"
+  },
+  {
+    "questionText": "Quel boss garde l'entrée de l'Arbre-Monde à Leyndell ?",
+    "options": ["Morgott", "Margit", "Godrick", "Mohg"],
+    "correctAnswer": "Morgott"
+  },
+  {
+    "questionText": "Quelle est la véritable identité de l'épouse de Rennala, Radagon ?",
+    "options": ["Il est Marika", "Il est Godfrey", "Il est une illusion", "Il est un Sans-éclat"],
+    "correctAnswer": "Il est Marika"
+  },
+  {
+    "questionText": "Comment s'appelle le PNJ qui nous demande de 'devenir une famille' au Manoir du Volcan ?",
+    "options": ["Pat", "Rya", "Tanith", "Rykard"],
+    "correctAnswer": "Rykard"
+  },
+  {
+    "questionText": "Quel demi-dieu a été le premier à mourir lors de la Nuit des Couteaux Noirs ?",
+    "options": ["Godwyn le Doré", "Miquella", "Morgott", "Ranni"],
+    "correctAnswer": "Godwyn le Doré"
+  },
+  {
+    "questionText": "Quel est le nom de la ville éternelle située sous terre ?",
+    "options": ["Nokron", "Sellia", "Ordina", "Raya Lucaria"],
+    "correctAnswer": "Nokron"
+  },
+  {
+    "questionText": "Quelle sorcière possède quatre bras et un chapeau de neige ?",
+    "options": ["Sellen", "Ranni", "Renna", "Fia"],
+    "correctAnswer": "Ranni"
+  },
+  {
+    "questionText": "Comment s'appelle le château où l'on affronte Godrick le Greffé ?",
+    "options": ["Château de Voilorage", "Manoir de Caria", "Fort Haight", "Château du Lion Rouge"],
+    "correctAnswer": "Château de Voilorage"
+  },
+  {
+    "questionText": "Quelle arme est spécifiquement conçue pour vaincre Rykard ?",
+    "options": ["Traque-vipère", "Épée de la Nuit", "Lune voilée", "Rivières de sang"],
+    "correctAnswer": "Traque-vipère"
+  },
+  {
+    "questionText": "Quel PNJ nous 'serre dans ses bras' à la Table Ronde ?",
+    "options": ["Fia", "Roderika", "Nepheli Loux", "Enia"],
+    "correctAnswer": "Fia"
+  },
+  {
+    "questionText": "Quel est l'attribut principal nécessaire pour utiliser les sorts de magie d'éclat ?",
+    "options": ["Foi", "Intelligence", "Ésotérisme", "Dextérité"],
+    "correctAnswer": "Intelligence"
+  },
+  {
+    "questionText": "Qui est le frère jumeau de Malenia ?",
+    "options": ["Miquella", "Messmer", "Mohg", "Radahn"],
+    "correctAnswer": "Miquella"
+  },
+  {
+    "questionText": "Quel est le nom de l'académie de magie dirigée par Rennala ?",
+    "options": ["Raya Lucaria", "Leyndell", "Caria", "Seluvis"],
+    "correctAnswer": "Raya Lucaria"
+  },
+  {
+    "questionText": "Quel boss se coupe un bras pour invoquer le pouvoir d'une tête de dragon ?",
+    "options": ["Godrick le Greffé", "Godfrey", "Placidusax", "Agheel"],
+    "correctAnswer": "Godrick le Greffé"
+  },
+  {
+    "questionText": "Où se trouve le Palais de Mohgwyn ?",
+    "options": ["Dans les cieux", "Sous la terre", "Sur une île", "Dans le volcan"],
+    "correctAnswer": "Sous la terre"
+  },
+  {
+    "questionText": "Quel PNJ récurrent de FromSoftware retrouve-t-on dans Elden Ring ?",
+    "options": ["Solaire", "Pat le Fourbe", "Siegward", "L'oignon"],
+    "correctAnswer": "Pat le Fourbe"
+  },
+  {
+    "questionText": "Comment s'appelle la zone finale située dans les airs ?",
+    "options": ["Farum Azula", "Caelid", "Limgrave", "Liurnia"],
+    "correctAnswer": "Farum Azula"
+  },
+  {
+    "questionText": "Quelle fleur est associée au personnage de Miquella ?",
+    "options": ["Lys de Trina", "Rose de sang", "Fleur de givre", "Muguet"],
+    "correctAnswer": "Lys de Trina"
+  },
+  {
+    "questionText": "Quel est le titre donné aux doigts qui servent la Volonté Suprême ?",
+    "options": ["Les Deux Doigts", "Les Trois Doigts", "La Main d'Or", "L'Index Mortel"],
+    "correctAnswer": "Les Deux Doigts"
+  },
+  {
+    "questionText": "Quel ennemi redoutable ressemble à une main géante ?",
+    "options": ["Rampant", "Carian Finger", "Main de Caria", "Doigtier"],
+    "correctAnswer": "Main de Caria"
+  },
+  {
+    "questionText": "Quel est le nom de la jarre guerrière qui devient notre amie ?",
+    "options": ["Alexander", "Bernahl", "Blaidd", "Diallos"],
+    "correctAnswer": "Alexander"
+  },
+  {
+    "questionText": "Quel objet permet de réinitialiser ses statistiques auprès de Rennala ?",
+    "options": ["Larme larvaire", "Larme de cristal", "Pierre de forge", "Rune majeure"],
+    "correctAnswer": "Larme larvaire"
+  },
+  {
+    "questionText": "Quel est le nom du boss final d'Elden Ring ?",
+    "options": ["La Bête d'Elden", "Radagon", "Marika", "Le Sans-éclat"],
+    "correctAnswer": "La Bête d'Elden"
+  }
+]

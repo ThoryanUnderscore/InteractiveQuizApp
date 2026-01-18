@@ -1,0 +1,152 @@
+[
+  {
+    "questionText": "Quelle est l'unité de mesure de la force dans le Système International ?",
+    "options": ["Le Watt", "Le Joule", "Le Newton", "Le Pascal"],
+    "correctAnswer": "Le Newton"
+  },
+  {
+    "questionText": "Quel est l'élément chimique le plus abondant dans l'Univers ?",
+    "options": ["L'Oxygène", "L'Hydrogène", "L'Hélium", "Le Carbone"],
+    "correctAnswer": "L'Hydrogène"
+  },
+  {
+    "questionText": "Quel composant de la cellule est surnommé la 'centrale énergétique' ?",
+    "options": ["Le noyau", "La mitochondrie", "Le ribosome", "L'appareil de Golgi"],
+    "correctAnswer": "La mitochondrie"
+  },
+  {
+    "questionText": "À quelle vitesse approximative la lumière voyage-t-elle dans le vide ?",
+    "options": ["150 000 km/s", "300 000 km/s", "450 000 km/s", "1 000 000 km/s"],
+    "correctAnswer": "300 000 km/s"
+  },
+  {
+    "questionText": "Quel scientifique a formulé la loi de la gravitation universelle ?",
+    "options": ["Albert Einstein", "Isaac Newton", "Galilée", "Nicolas Copernic"],
+    "correctAnswer": "Isaac Newton"
+  },
+  {
+    "questionText": "Quel est le pH d'une solution neutre comme l'eau pure ?",
+    "options": ["0", "5", "7", "14"],
+    "correctAnswer": "7"
+  },
+  {
+    "questionText": "Quelle planète du système solaire est surnommée la 'Planète Rouge' ?",
+    "options": ["Vénus", "Mars", "Jupiter", "Saturne"],
+    "correctAnswer": "Mars"
+  },
+  {
+    "questionText": "Quel gaz les plantes absorbent-elles pendant la photosynthèse ?",
+    "options": ["Oxygène", "Azote", "Dioxyde de carbone", "Méthane"],
+    "correctAnswer": "Dioxyde de carbone"
+  },
+  {
+    "questionText": "Qui a proposé la théorie de l'évolution par la sélection naturelle ?",
+    "options": ["Gregor Mendel", "Charles Darwin", "Louis Pasteur", "Jean-Baptiste Lamarck"],
+    "correctAnswer": "Charles Darwin"
+  },
+  {
+    "questionText": "Quel est le symbole chimique de l'or ?",
+    "options": ["Ag", "Fe", "Au", "Pb"],
+    "correctAnswer": "Au"
+  },
+  {
+    "questionText": "Comment appelle-t-on le passage de l'état solide à l'état gazeux directement ?",
+    "options": ["La fusion", "La sublimation", "La condensation", "L'évaporation"],
+    "correctAnswer": "La sublimation"
+  },
+  {
+    "questionText": "Quelle est la couche la plus externe de la Terre ?",
+    "options": ["Le manteau", "Le noyau externe", "La croûte terrestre", "Le noyau interne"],
+    "correctAnswer": "La croûte terrestre"
+  },
+  {
+    "questionText": "Quel est l'organe humain responsable de la filtration du sang pour produire l'urine ?",
+    "options": ["Le foie", "Le pancréas", "Le rein", "La rate"],
+    "correctAnswer": "Le rein"
+  },
+  {
+    "questionText": "Quelle particule atomique a une charge électrique négative ?",
+    "options": ["Le proton", "Le neutron", "L'électron", "Le quark"],
+    "correctAnswer": "L'électron"
+  },
+  {
+    "questionText": "Quelle est la principale source d'énergie des étoiles ?",
+    "options": ["La combustion chimique", "La fission nucléaire", "La fusion nucléaire", "L'énergie gravitationnelle"],
+    "correctAnswer": "La fusion nucléaire"
+  },
+  {
+    "questionText": "Quel scientifique a découvert la structure en double hélice de l'ADN (avec Crick et Franklin) ?",
+    "options": ["James Watson", "Linus Pauling", "Richard Feynman", "Stephen Hawking"],
+    "correctAnswer": "James Watson"
+  },
+  {
+    "questionText": "Quel métal est liquide à température ambiante ?",
+    "options": ["Le magnésium", "Le mercure", "Le plomb", "Le zinc"],
+    "correctAnswer": "Le mercure"
+  },
+  {
+    "questionText": "Quelle branche de la physique étudie le comportement de la lumière ?",
+    "options": ["La thermodynamique", "L'acoustique", "L'optique", "La mécanique"],
+    "correctAnswer": "L'optique"
+  },
+  {
+    "questionText": "Comment appelle-t-on un animal qui mange à la fois des plantes et de la viande ?",
+    "options": ["Herbivore", "Carnivore", "Omnivore", "Détritivore"],
+    "correctAnswer": "Omnivore"
+  },
+  {
+    "questionText": "Quelle est la température d'ébullition de l'eau au niveau de la mer ?",
+    "options": ["80°C", "90°C", "100°C", "110°C"],
+    "correctAnswer": "100°C"
+  },
+  {
+    "questionText": "Quel est l'os le plus petit du corps humain ?",
+    "options": ["Le fémur", "L'étrier", "La rotule", "Le scaphoïde"],
+    "correctAnswer": "L'étrier"
+  },
+  {
+    "questionText": "Qui est considéré comme le père de la génétique moderne ?",
+    "options": ["Charles Darwin", "Gregor Mendel", "Thomas Morgan", "Francis Galton"],
+    "correctAnswer": "Gregor Mendel"
+  },
+  {
+    "questionText": "Quelle galaxie est la plus proche de la Voie Lactée ?",
+    "options": ["Andromède", "Sombrero", "Triangle", "Tourbillon"],
+    "correctAnswer": "Andromède"
+  },
+  {
+    "questionText": "Quel gaz compose environ 78% de l'atmosphère terrestre ?",
+    "options": ["Oxygène", "Argon", "Azote", "Hélium"],
+    "correctAnswer": "Azote"
+  },
+  {
+    "questionText": "Quel est le nom de la force qui s'oppose au mouvement entre deux surfaces en contact ?",
+    "options": ["La gravité", "La friction", "L'inertie", "La tension"],
+    "correctAnswer": "La friction"
+  },
+  {
+    "questionText": "Dans quel organe se déroule la majeure partie de la digestion des nutriments ?",
+    "options": ["L'estomac", "Le gros intestin", "L'intestin grêle", "L'œsophage"],
+    "correctAnswer": "L'intestin grêle"
+  },
+  {
+    "questionText": "Quel type de miroir est utilisé pour faire converger la lumière en un point ?",
+    "options": ["Miroir plan", "Miroir convexe", "Miroir concave", "Miroir cylindrique"],
+    "correctAnswer": "Miroir concave"
+  },
+  {
+    "questionText": "Quelle est la plus petite unité de la matière conservant les propriétés d'un élément ?",
+    "options": ["La molécule", "L'atome", "La cellule", "Le cristal"],
+    "correctAnswer": "L'atome"
+  },
+  {
+    "questionText": "Comment appelle-t-on le processus par lequel les cellules se divisent pour la croissance ?",
+    "options": ["La méiose", "La mitose", "La symbiose", "La nécrose"],
+    "correctAnswer": "La mitose"
+  },
+  {
+    "questionText": "Quel scientifique est célèbre pour l'équation E=mc² ?",
+    "options": ["Niels Bohr", "Max Planck", "Albert Einstein", "Werner Heisenberg"],
+    "correctAnswer": "Albert Einstein"
+  }
+]

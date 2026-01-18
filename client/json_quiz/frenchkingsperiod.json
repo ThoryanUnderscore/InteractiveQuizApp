@@ -1,0 +1,152 @@
+[
+  {
+    "questionText": "Qui est considéré comme le premier roi de tous les Francs après sa victoire à Soissons ?",
+    "options": ["Clovis Ier", "Mérovée", "Childéric Ier", "Dagobert Ier"],
+    "correctAnswer": "Clovis Ier"
+  },
+  {
+    "questionText": "Quel roi carolingien a été sacré empereur d'Occident en l'an 800 ?",
+    "options": ["Pépin le Bref", "Charlemagne", "Louis le Pieux", "Charles le Chauve"],
+    "correctAnswer": "Charlemagne"
+  },
+  {
+    "questionText": "Quel roi a fondé la dynastie des Capétiens en 987 ?",
+    "options": ["Robert le Pieux", "Hugues Capet", "Philippe Auguste", "Louis VI"],
+    "correctAnswer": "Hugues Capet"
+  },
+  {
+    "questionText": "Quel roi est célèbre pour avoir rendu la justice sous un chêne à Vincennes ?",
+    "options": ["Philippe IV le Bel", "Louis IX (Saint Louis)", "Charles V", "Louis XI"],
+    "correctAnswer": "Louis IX (Saint Louis)"
+  },
+  {
+    "questionText": "Quel surnom portait le roi Louis XIV ?",
+    "options": ["Le Roi-Soleil", "Le Bien-Aimé", "Le Victorieux", "Le Juste"],
+    "correctAnswer": "Le Roi-Soleil"
+  },
+  {
+    "questionText": "Quel roi de France a été vaincu et fait prisonnier lors de la bataille de Pavie ?",
+    "options": ["Louis XII", "Henri II", "François Ier", "Charles VIII"],
+    "correctAnswer": "François Ier"
+  },
+  {
+    "questionText": "Qui était le roi de France pendant la Révolution française, exécuté en 1793 ?",
+    "options": ["Louis XV", "Louis XVI", "Charles X", "Louis XVIII"],
+    "correctAnswer": "Louis XVI"
+  },
+  {
+    "questionText": "Quel roi de Navarre est devenu roi de France après s'être converti au catholicisme ?",
+    "options": ["Henri III", "Henri IV", "Louis XIII", "Charles IX"],
+    "correctAnswer": "Henri IV"
+  },
+  {
+    "questionText": "Quel roi a fait construire le château de Versailles tel qu'on le connaît aujourd'hui ?",
+    "options": ["Louis XIII", "Louis XIV", "Louis XV", "Henri IV"],
+    "correctAnswer": "Louis XIV"
+  },
+  {
+    "questionText": "Quel ministre célèbre a servi le roi Louis XIII pendant la majeure partie de son règne ?",
+    "options": ["Mazarin", "Colbert", "Richelieu", "Sulley"],
+    "correctAnswer": "Richelieu"
+  },
+  {
+    "questionText": "Quel roi de France a remporté la célèbre bataille de Bouvines en 1214 ?",
+    "options": ["Louis VII", "Philippe II Auguste", "Saint Louis", "Philippe le Bel"],
+    "correctAnswer": "Philippe II Auguste"
+  },
+  {
+    "questionText": "Quelle dynastie a régné sur la France entre les Carolingiens et les Valois ?",
+    "options": ["Les Bourbons", "Les Mérovingiens", "Les Capétiens directs", "Les Orléans"],
+    "correctAnswer": "Les Capétiens directs"
+  },
+  {
+    "questionText": "Quel roi est mort sans héritier mâle, entraînant indirectement la guerre de Cent Ans ?",
+    "options": ["Charles IV le Bel", "Philippe IV le Bel", "Louis X le Hutin", "Philippe VI"],
+    "correctAnswer": "Charles IV le Bel"
+  },
+  {
+    "questionText": "Quel roi a été surnommé 'l'Universelle Aragne' pour sa diplomatie et ses ruses ?",
+    "options": ["Louis XI", "Charles VII", "Louis XII", "Philippe le Bel"],
+    "correctAnswer": "Louis XI"
+  },
+  {
+    "questionText": "Quel roi a imposé l'usage du français dans les actes officiels (Ordonnance de Villers-Cotterêts) ?",
+    "options": ["François Ier", "Henri II", "Louis XIV", "Charles IX"],
+    "correctAnswer": "François Ier"
+  },
+  {
+    "questionText": "Qui était l'épouse de Louis XVI, célèbre reine d'origine autrichienne ?",
+    "options": ["Marie de Médicis", "Anne d'Autriche", "Marie-Antoinette", "Catherine de Médicis"],
+    "correctAnswer": "Marie-Antoinette"
+  },
+  {
+    "questionText": "Quel roi a succédé à Charles VII grâce à l'aide de Jeanne d'Arc ?",
+    "options": ["Louis XI", "Charles VIII", "Charles VII (il a été sacré)", "Louis XII"],
+    "correctAnswer": "Charles VII (il a été sacré)"
+  },
+  {
+    "questionText": "Quel roi de France est mort d'une chute de cheval (ou s'est cogné la tête contre un linteau) ?",
+    "options": ["Charles VIII", "Louis V", "Philippe le Bel", "Jean Ier"],
+    "correctAnswer": "Charles VIII"
+  },
+  {
+    "questionText": "Quel était le surnom de Philippe IV, connu pour son conflit avec les Templiers ?",
+    "options": ["Le Hardi", "Le Bel", "Le Pieux", "Le Sage"],
+    "correctAnswer": "Le Bel"
+  },
+  {
+    "questionText": "Dans quelle ville les rois de France étaient-ils traditionnellement sacrés ?",
+    "options": ["Paris", "Reims", "Chartres", "Saint-Denis"],
+    "correctAnswer": "Reims"
+  },
+  {
+    "questionText": "Quel roi a régné le plus longtemps dans l'histoire de France ?",
+    "options": ["Louis XIV", "Louis XV", "Philippe Auguste", "Louis IX"],
+    "correctAnswer": "Louis XIV"
+  },
+  {
+    "questionText": "Qui était la mère et régente du roi Louis XIV au début de son règne ?",
+    "options": ["Marie de Médicis", "Anne d'Autriche", "Catherine de Médicis", "Blanche de Castille"],
+    "correctAnswer": "Anne d'Autriche"
+  },
+  {
+    "questionText": "Quel roi a mis fin aux guerres de Religion avec l'Édit de Nantes ?",
+    "options": ["Charles IX", "Henri III", "Henri IV", "Louis XIII"],
+    "correctAnswer": "Henri IV"
+  },
+  {
+    "questionText": "Quel roi a ordonné le massacre de la Saint-Barthélemy ?",
+    "options": ["Charles IX", "Henri II", "François II", "Henri III"],
+    "correctAnswer": "Charles IX"
+  },
+  {
+    "questionText": "Quel roi surnommé 'le Sage' a restauré l'autorité royale durant la guerre de Cent Ans ?",
+    "options": ["Jean le Bon", "Charles V", "Charles VI", "Charles VII"],
+    "correctAnswer": "Charles V"
+  },
+  {
+    "questionText": "Comment s'appelait le fils de Louis XVI qui n'a jamais régné ?",
+    "options": ["Louis XVII", "Louis XVIII", "Charles X", "Louis-Philippe"],
+    "correctAnswer": "Louis XVII"
+  },
+  {
+    "questionText": "Quel roi a été le dernier roi de la branche des Valois ?",
+    "options": ["Henri II", "Charles IX", "Henri III", "François Ier"],
+    "correctAnswer": "Henri III"
+  },
+  {
+    "questionText": "Quelle est la nécropole officielle où sont enterrés la plupart des rois de France ?",
+    "options": ["Le Panthéon", "La basilique Saint-Denis", "La cathédrale Notre-Dame", "Le Louvre"],
+    "correctAnswer": "La basilique Saint-Denis"
+  },
+  {
+    "questionText": "Quel roi médiéval a épousé Aliénor d'Aquitaine avant qu'elle ne devienne reine d'Angleterre ?",
+    "options": ["Louis VI", "Louis VII", "Philippe Auguste", "Louis VIII"],
+    "correctAnswer": "Louis VII"
+  },
+  {
+    "questionText": "Quel roi a succédé à Louis XVIII lors de la Restauration ?",
+    "options": ["Charles X", "Louis-Philippe", "Napoléon III", "Louis XVII"],
+    "correctAnswer": "Charles X"
+  }
+]
